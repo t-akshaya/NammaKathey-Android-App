@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_s">8dp</dimen>
+    <dimen name="margin_m">16dp</dimen>
+    <dimen name="margin_l">24dp</dimen>
+    <dimen name="card_corner">20dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="hero_emoji_size">56sp</dimen>
+    <dimen name="text_xl">24sp</dimen>
+    <dimen name="text_l">20sp</dimen>
+    <dimen name="text_m">16sp</dimen>
+    <dimen name="text_s">13sp</dimen>
+    <dimen name="text_xs">11sp</dimen>
+</resources>

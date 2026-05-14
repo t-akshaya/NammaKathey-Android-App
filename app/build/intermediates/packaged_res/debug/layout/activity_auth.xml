@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#F7F3FF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@android:color/white"
+            android:padding="20dp">
+
+            <!-- Logo -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🦁"
+                android:textSize="30sp"
+                android:layout_gravity="center"/>
+
+            <!-- Title -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Welcome, Young Explorer!"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginTop="8dp"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Create your hero account"
+                android:textSize="12sp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center"/>
+
+            <!-- Name -->
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Full Name"/>
+
+            <!-- Email -->
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:hint="Email"
+                android:inputType="textEmailAddress"/>
+
+            <!-- Password -->
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:hint="Password"
+                android:inputType="textPassword"/>
+
+            <!-- Confirm Password -->
+            <EditText
+                android:id="@+id/etConfirmPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:hint="Confirm Password"
+                android:inputType="textPassword"/>
+
+            <!-- Age -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your Age Group"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:layout_marginTop="20dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="8dp">
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chipAge58"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Age 5-8"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chipAge912"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Age 9-12"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chipAge1316"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Age 13-16"/>
+            </LinearLayout>
+
+            <!-- Avatar -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose Your Avatar"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:layout_marginTop="20dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/avatar1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🦁"
+                    android:textSize="26sp"
+                    android:padding="8dp"/>
+
+                <TextView
+                    android:id="@+id/avatar2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🦄"
+                    android:textSize="26sp"
+                    android:padding="8dp"/>
+
+                <TextView
+                    android:id="@+id/avatar3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🐘"
+                    android:textSize="26sp"
+                    android:padding="8dp"/>
+
+                <TextView
+                    android:id="@+id/avatar4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🌍"
+                    android:textSize="26sp"
+                    android:padding="8dp"/>
+            </LinearLayout>
+
+            <!-- Register -->
+            <Button
+                android:id="@+id/btnStartJourney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="🚀 Register and Start Journey"
+                android:layout_marginTop="20dp"/>
+
+            <!-- Guest -->
+            <TextView
+                android:id="@+id/tvGuestMode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Continue as Guest →"
+                android:textStyle="bold"
+                android:layout_marginTop="14dp"
+                android:layout_gravity="center"/>
+
+            <!-- Login -->
+            <TextView
+                android:id="@+id/tvLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Already have an account? Login →"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:layout_marginTop="16dp"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

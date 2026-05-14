@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#B71C1C</color>
+    <color name="primary_dark">#7F0000</color>
+    <color name="primary_light">#EF9A9A</color>
+    <color name="saffron">#FF8F00</color>
+    <color name="saffron_light">#FFCA28</color>
+    <color name="india_green">#2D6A4F</color>
+    <color name="india_green_light">#52B788</color>
+    <color name="navy">#1A237E</color>
+    <color name="gold">#FFD700</color>
+
+    <!-- UI -->
+    <color name="white">#FFFFFF</color>
+    <color name="bg_main">#FFF9F4</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="overlay">#80000000</color>
+
+    <!-- Nav tint -->
+    <color name="nav_item_tint_selected">#B71C1C</color>
+    <color name="nav_item_tint_normal">#9E9E9E</color>
+</resources>

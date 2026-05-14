@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#FFF9F4</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="gold">#FFD700</color>
+    <color name="india_green">#2D6A4F</color>
+    <color name="india_green_light">#52B788</color>
+    <color name="nav_item_tint_normal">#9E9E9E</color>
+    <color name="nav_item_tint_selected">#B71C1C</color>
+    <color name="navy">#1A237E</color>
+    <color name="overlay">#80000000</color>
+    <color name="primary">#B71C1C</color>
+    <color name="primary_dark">#7F0000</color>
+    <color name="primary_light">#EF9A9A</color>
+    <color name="saffron">#FF8F00</color>
+    <color name="saffron_light">#FFCA28</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="card_corner">20dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+    <dimen name="hero_emoji_size">56sp</dimen>
+    <dimen name="margin_l">24dp</dimen>
+    <dimen name="margin_m">16dp</dimen>
+    <dimen name="margin_s">8dp</dimen>
+    <dimen name="text_l">20sp</dimen>
+    <dimen name="text_m">16sp</dimen>
+    <dimen name="text_s">13sp</dimen>
+    <dimen name="text_xl">24sp</dimen>
+    <dimen name="text_xs">11sp</dimen>
+    <string name="app_name">Namma Kathey</string>
+    <string name="app_name_kn">ನಮ್ಮ ಕಥೆ</string>
+    <string name="auth_guest">Continue as Guest →</string>
+    <string name="auth_name_hint">Your Name</string>
+    <string name="auth_start">🚀 Start My Journey!</string>
+    <string name="auth_title">Welcome, Young Explorer!</string>
+    <string name="badge_earned_title">🎉 Congratulations! Badge Earned!</string>
+    <string name="badges_earned">%1$d / %2$d Earned</string>
+    <string name="go_home">🏠 Go to Home</string>
+    <string name="listen">🔊 Listen</string>
+    <string name="ob_get_started">Get Started!</string>
+    <string name="ob_next">Next →</string>
+    <string name="ob_skip">Skip</string>
+    <string name="question_of">Question %1$d of %2$d</string>
+    <string name="score_label">⭐ %d</string>
+    <string name="share_achievement">📤 Share Achievement</string>
+    <string name="stop_listening">⏸ Stop</string>
+    <string name="tagline">Discover the Heroes of Your Land</string>
+    <string name="take_quiz">🎯 Take the Hero Quiz!</string>
+    <string name="try_again">📚 Read again and try once more!</string>
+    <style name="Theme.NammaKathey" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/saffron</item>
+        <item name="colorSecondaryVariant">@color/saffron_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Theme.NammaKathey.NoActionBar" parent="Theme.NammaKathey">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.NammaKathey.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/primary</item>
+    </style>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Kathey</string>
+    <string name="app_name_kn">ನಮ್ಮ ಕಥೆ</string>
+    <string name="tagline">Discover the Heroes of Your Land</string>
+
+    <!-- Onboarding -->
+    <string name="ob_skip">Skip</string>
+    <string name="ob_next">Next →</string>
+    <string name="ob_get_started">Get Started!</string>
+
+    <!-- Auth -->
+    <string name="auth_title">Welcome, Young Explorer!</string>
+    <string name="auth_name_hint">Your Name</string>
+    <string name="auth_start">🚀 Start My Journey!</string>
+    <string name="auth_guest">Continue as Guest →</string>
+
+    <!-- Story -->
+    <string name="listen">🔊 Listen</string>
+    <string name="stop_listening">⏸ Stop</string>
+    <string name="take_quiz">🎯 Take the Hero Quiz!</string>
+
+    <!-- Quiz -->
+    <string name="question_of">Question %1$d of %2$d</string>
+    <string name="score_label">⭐ %d</string>
+
+    <!-- Badges -->
+    <string name="badges_earned">%1$d / %2$d Earned</string>
+    <string name="badge_earned_title">🎉 Congratulations! Badge Earned!</string>
+    <string name="try_again">📚 Read again and try once more!</string>
+    <string name="go_home">🏠 Go to Home</string>
+    <string name="share_achievement">📤 Share Achievement</string>
+</resources>

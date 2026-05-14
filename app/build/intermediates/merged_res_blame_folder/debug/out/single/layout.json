@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\item_badge.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\item_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\item_story_page.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\item_story_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_ai_story.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_ai_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\item_hero_card.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\item_hero_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_hero_list.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_hero_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_badge_earned.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_badge_earned.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_story.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_statue_finder.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_statue_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\item_onboarding_page.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\item_onboarding_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\item_district_card.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\item_district_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.nammakathe.app-mergeDebugResources-88:/layout/item_badge.xml",
+        "source": "com.nammakathe.app-main-91:/layout/item_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_quiz.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_parent_dashboard.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_parent_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_district.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_district.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\activity_onboarding.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_badge.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-mergeDebugResources-88:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\AKSHAYA\\.gradle\\daemon\\8.4\\com.nammakathe.app-main-91:\\layout\\fragment_profile.xml"
+    }
+]

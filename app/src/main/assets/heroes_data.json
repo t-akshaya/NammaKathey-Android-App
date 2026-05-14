@@ -1,0 +1,1253 @@
+{
+  "districts": [
+    {"id":"belagavi","name":"Belagavi","nameKn":"ಬೆಳಗಾವಿ","region":"North Karnataka","heroCount":2,"primaryColor":"#B71C1C","secondaryColor":"#E53935","lat":15.8497,"lng":74.4977,"mapX":0.18,"mapY":0.22},
+    {"id":"shivamogga","name":"Shivamogga","nameKn":"ಶಿವಮೊಗ್ಗ","region":"Malnad","heroCount":2,"primaryColor":"#1B5E20","secondaryColor":"#388E3C","lat":13.9299,"lng":75.5681,"mapX":0.35,"mapY":0.55},
+    {"id":"mysuru","name":"Mysuru","nameKn":"ಮೈಸೂರು","region":"South Karnataka","heroCount":2,"primaryColor":"#4A148C","secondaryColor":"#7B1FA2","lat":12.2958,"lng":76.6394,"mapX":0.42,"mapY":0.75},
+    {"id":"dharwad","name":"Dharwad","nameKn":"ಧಾರವಾಡ","region":"North Karnataka","heroCount":1,"primaryColor":"#E65100","secondaryColor":"#FF6D00","lat":15.4589,"lng":75.0078,"mapX":0.22,"mapY":0.32},
+    {"id":"raichur","name":"Raichur","nameKn":"ರಾಯಚೂರು","region":"Hyderabad Karnataka","heroCount":1,"primaryColor":"#0D47A1","secondaryColor":"#1565C0","lat":16.2076,"lng":77.3463,"mapX":0.62,"mapY":0.28},
+    {"id":"hassan","name":"Hassan","nameKn":"ಹಾಸನ","region":"Old Mysuru","heroCount":1,"primaryColor":"#006064","secondaryColor":"#00838F","lat":13.0035,"lng":76.1004,"mapX":0.38,"mapY":0.68},
+    {"id":"chitradurga","name":"Chitradurga","nameKn":"ಚಿತ್ರದುರ್ಗ","region":"Central Karnataka","heroCount":1,"primaryColor":"#BF360C","secondaryColor":"#D84315","lat":14.2251,"lng":76.4016,"mapX":0.45,"mapY":0.45}
+  ,
+    {"id":"bengaluru","name":"Bengaluru","nameKn":"ಬೆಂಗಳೂರು","region":"South Karnataka","heroCount":1,"primaryColor":"#6A1B9A","secondaryColor":"#8E24AA","lat":12.9716,"lng":77.5946,"mapX":0.58,"mapY":0.72},
+
+    {"id":"kodagu","name":"Kodagu","nameKn":"ಕೊಡಗು","region":"Malnad","heroCount":1,"primaryColor":"#2E7D32","secondaryColor":"#43A047","lat":12.3375,"lng":75.8069,"mapX":0.28,"mapY":0.78},
+
+    {"id":"udupi","name":"Udupi","nameKn":"ಉಡುಪಿ","region":"Coastal Karnataka","heroCount":1,"primaryColor":"#006064","secondaryColor":"#00838F","lat":13.3409,"lng":74.7421,"mapX":0.16,"mapY":0.62},
+
+    {"id":"haveri","name":"Haveri","nameKn":"ಹಾವೇರಿ","region":"North Karnataka","heroCount":1,"primaryColor":"#EF6C00","secondaryColor":"#FB8C00","lat":14.7937,"lng":75.4041,"mapX":0.30,"mapY":0.38},
+
+    {"id":"ballari","name":"Ballari","nameKn":"ಬಳ್ಳಾರಿ","region":"Hyderabad Karnataka","heroCount":1,"primaryColor":"#C62828","secondaryColor":"#E53935","lat":15.1394,"lng":76.9214,"mapX":0.60,"mapY":0.40}
+  ,
+    {"id":"dakshina_kannada","name":"Dakshina Kannada","nameKn":"ದಕ್ಷಿಣ ಕನ್ನಡ","region":"Coastal Karnataka","heroCount":1,"primaryColor":"#AD1457","secondaryColor":"#D81B60","lat":12.9141,"lng":74.8560,"mapX":0.10,"mapY":0.72},
+
+    {"id":"vijayanagara","name":"Vijayanagara","nameKn":"ವಿಜಯನಗರ","region":"North Karnataka","heroCount":1,"primaryColor":"#4E342E","secondaryColor":"#6D4C41","lat":15.3350,"lng":76.4600,"mapX":0.48,"mapY":0.34},
+
+    {"id":"kalaburagi","name":"Kalaburagi","nameKn":"ಕಲಬುರಗಿ","region":"Hyderabad Karnataka","heroCount":1,"primaryColor":"#512DA8","secondaryColor":"#673AB7","lat":17.3297,"lng":76.8343,"mapX":0.72,"mapY":0.16},
+
+    {"id":"bidar","name":"Bidar","nameKn":"ಬೀದರ್","region":"Hyderabad Karnataka","heroCount":1,"primaryColor":"#1565C0","secondaryColor":"#1E88E5","lat":17.9104,"lng":77.5199,"mapX":0.80,"mapY":0.08},
+
+    {"id":"koppal","name":"Koppal","nameKn":"ಕೊಪ್ಪಳ","region":"North Karnataka","heroCount":1,"primaryColor":"#EF6C00","secondaryColor":"#FB8C00","lat":15.3450,"lng":76.1548,"mapX":0.40,"mapY":0.30}
+  ],
+  "heroes": [
+    {
+      "id":"kempe_gowda",
+      "name":"Kempe Gowda",
+      "nameKn":"ಕೆಂಪೇಗೌಡ",
+      "title":"Founder of Bengaluru",
+      "titleKn":"ಬೆಂಗಳೂರು ನಿರ್ಮಾತೃ",
+      "districtId":"bengaluru",
+      "districtName":"Bengaluru",
+      "era":"1513–1569",
+      "category":"SOCIAL_REFORMER",
+      "emoji":"🏙️",
+      "shortBio":"Kempe Gowda founded Bengaluru and laid the foundation for one of India's greatest cities.",
+      "shortBioKn":"ಕೆಂಪೇಗೌಡ ಬೆಂಗಳೂರು ನಿರ್ಮಿಸಿ ಭಾರತದ ಶ್ರೇಷ್ಠ ನಗರಗಳಲ್ಲಿ ಒಂದಕ್ಕೆ ಅಡಿಪಾಯ ಹಾಕಿದರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Visionary Leader",
+          "titleKn":"ದೂರದೃಷ್ಟಿಯ ನಾಯಕ",
+          "content":"Over 500 years ago, Kempe Gowda dreamed of building a city where people could live, trade, and grow together. He imagined a city full of markets, lakes, temples, and opportunities.",
+          "contentKn":"500 ವರ್ಷಗಳ ಹಿಂದೆ ಕೆಂಪೇಗೌಡ ಜನರು ಬದುಕಲು, ವ್ಯಾಪಾರ ಮಾಡಲು ಮತ್ತು ಬೆಳೆಯಲು ಸಾಧ್ಯವಾಗುವ ನಗರವೊಂದನ್ನು ಕನಸು ಕಂಡರು.",
+          "illustrationEmoji":"🌇",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"Building Bengaluru",
+          "titleKn":"ಬೆಂಗಳೂರು ನಿರ್ಮಾಣ",
+          "content":"Kempe Gowda carefully planned roads, markets, lakes, and forts. He placed four watch towers around the city to mark Bengaluru's boundaries.",
+          "contentKn":"ಕೆಂಪೇಗೌಡ ರಸ್ತೆ, ಮಾರುಕಟ್ಟೆ, ಕೆರೆ ಮತ್ತು ಕೋಟೆಗಳನ್ನು ಯೋಜಿತವಾಗಿ ನಿರ್ಮಿಸಿದರು.",
+          "illustrationEmoji":"🏗️",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"The Four Towers",
+          "titleKn":"ನಾಲ್ಕು ಗೋಪುರಗಳು",
+          "content":"The four towers built by Kempe Gowda became the symbol of Bengaluru. They showed his brilliant city planning and vision for the future.",
+          "contentKn":"ಕೆಂಪೇಗೌಡ ನಿರ್ಮಿಸಿದ ನಾಲ್ಕು ಗೋಪುರಗಳು ಬೆಂಗಳೂರಿನ ಗುರುತಾದವು.",
+          "illustrationEmoji":"🗼",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"Legacy of a Founder",
+          "titleKn":"ನಗರ ನಿರ್ಮಾತೃನ ಪರಂಪರೆ",
+          "content":"Today Bengaluru is India's technology capital. Every citizen walks on the foundation built by Kempe Gowda centuries ago.",
+          "contentKn":"ಇಂದು ಬೆಂಗಳೂರು ಭಾರತದ ತಂತ್ರಜ್ಞಾನ ರಾಜಧಾನಿ. ಇದರ ಅಡಿಪಾಯ ಕೆಂಪೇಗೌಡರ ಕನಸಿನಿಂದ ನಿರ್ಮಿತವಾಗಿದೆ.",
+          "illustrationEmoji":"💻",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"Who founded Bengaluru?",
+          "questionKn":"ಬೆಂಗಳೂರು ಯಾರು ಸ್ಥಾಪಿಸಿದರು?",
+          "options":["Tipu Sultan","Kempe Gowda","Basavanna","Kuvempu"],
+          "optionsKn":["ಟಿಪ್ಪು ಸುಲ್ತಾನ್","ಕೆಂಪೇಗೌಡ","ಬಸವಣ್ಣ","ಕುವೆಂಪು"],
+          "correctIndex":1,
+          "explanation":"Kempe Gowda founded Bengaluru.",
+          "explanationKn":"ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರು ಸ್ಥಾಪಿಸಿದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"How many towers did Kempe Gowda build?",
+          "questionKn":"ಕೆಂಪೇಗೌಡ ಎಷ್ಟು ಗೋಪುರ ನಿರ್ಮಿಸಿದರು?",
+          "options":["2","4","6","8"],
+          "optionsKn":["2","4","6","8"],
+          "correctIndex":1,
+          "explanation":"Kempe Gowda built four towers.",
+          "explanationKn":"ಕೆಂಪೇಗೌಡರು ನಾಲ್ಕು ಗೋಪುರ ನಿರ್ಮಿಸಿದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"What is Bengaluru famous for today?",
+          "questionKn":"ಇಂದು ಬೆಂಗಳೂರು ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+          "options":["Technology","Farming","Fishing","Mining"],
+          "optionsKn":["ತಂತ್ರಜ್ಞಾನ","ಕೃಷಿ","ಮೀನುಗಾರಿಕೆ","ಗಣಿ"],
+          "correctIndex":0,
+          "explanation":"Bengaluru is India's technology capital.",
+          "explanationKn":"ಬೆಂಗಳೂರು ಭಾರತದ ತಂತ್ರಜ್ಞಾನ ರಾಜಧಾನಿ."
+        }
+
+      ],
+
+      "badgeId":"badge_kempe",
+      "memorialName":"Kempegowda Tower, Bengaluru"
+    },
+    {
+      "id":"cariappa",
+      "name":"K M Cariappa",
+      "nameKn":"ಕೆ ಎಂ ಕಾರಿಯಪ್ಪ",
+      "title":"India's First Army Chief",
+      "titleKn":"ಭಾರತದ ಮೊದಲ ಸೇನಾ ಮುಖ್ಯಸ್ಥ",
+      "districtId":"kodagu",
+      "districtName":"Kodagu",
+      "era":"1899–1993",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"🎖️",
+      "shortBio":"Field Marshal Cariappa became independent India's first Army Chief.",
+      "shortBioKn":"ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕಾರಿಯಪ್ಪ ಸ್ವತಂತ್ರ ಭಾರತದ ಮೊದಲ ಸೇನಾ ಮುಖ್ಯಸ್ಥರಾದರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Brave Child of Kodagu",
+          "titleKn":"ಕೊಡಗಿನ ಧೈರ್ಯಶಾಲಿ ಮಗ",
+          "content":"Cariappa was born in Kodagu, a land famous for brave warriors. From childhood, he loved discipline and leadership.",
+          "contentKn":"ಕಾರಿಯಪ್ಪ ಕೊಡಗಿನಲ್ಲಿ ಜನಿಸಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಶಿಸ್ತು ಮತ್ತು ನಾಯಕತ್ವವನ್ನು ಪ್ರೀತಿಸುತ್ತಿದ್ದರು.",
+          "illustrationEmoji":"⛰️",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"Joining the Army",
+          "titleKn":"ಸೇನೆಗೆ ಸೇರ್ಪಡೆ",
+          "content":"He joined the army and quickly became known for courage, discipline, and sharp strategy.",
+          "contentKn":"ಅವರು ಸೇನೆ ಸೇರಿ ಧೈರ್ಯ ಮತ್ತು ಶಿಸ್ತಿನಿಂದ ಪ್ರಸಿದ್ಧರಾದರು.",
+          "illustrationEmoji":"🪖",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"Leading a Nation",
+          "titleKn":"ರಾಷ್ಟ್ರಕ್ಕೆ ನಾಯಕತ್ವ",
+          "content":"After India became independent, Cariappa became the first Commander-in-Chief of the Indian Army.",
+          "contentKn":"ಭಾರತ ಸ್ವತಂತ್ರವಾದ ನಂತರ ಕಾರಿಯಪ್ಪ ಭಾರತೀಯ ಸೇನೆಯ ಮೊದಲ ಮುಖ್ಯಸ್ಥರಾದರು.",
+          "illustrationEmoji":"🇮🇳",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"Field Marshal Forever",
+          "titleKn":"ಅಮರ ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್",
+          "content":"Cariappa's leadership inspired generations of soldiers. He remains one of Karnataka's greatest heroes.",
+          "contentKn":"ಕಾರಿಯಪ್ಪರ ನಾಯಕತ್ವ ಅನೇಕ ತಲೆಮಾರುಗಳ ಸೈನಿಕರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿತು.",
+          "illustrationEmoji":"🏅",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"Where was Cariappa born?",
+          "questionKn":"ಕಾರಿಯಪ್ಪ ಎಲ್ಲ ಜನಿಸಿದರು?",
+          "options":["Kodagu","Mysuru","Belagavi","Raichur"],
+          "optionsKn":["ಕೊಡಗು","ಮೈಸೂರು","ಬೆಳಗಾವಿ","ರಾಯಚೂರು"],
+          "correctIndex":0,
+          "explanation":"Cariappa was born in Kodagu.",
+          "explanationKn":"ಕಾರಿಯಪ್ಪ ಕೊಡಗಿನಲ್ಲಿ ಜನಿಸಿದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"What was Cariappa famous for?",
+          "questionKn":"ಕಾರಿಯಪ್ಪ ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+          "options":["Poetry","Army Leadership","Science","Music"],
+          "optionsKn":["ಕಾವ್ಯ","ಸೇನಾ ನಾಯಕತ್ವ","ವಿಜ್ಞಾನ","ಸಂಗೀತ"],
+          "correctIndex":1,
+          "explanation":"He became India's first Army Chief.",
+          "explanationKn":"ಅವರು ಭಾರತದ ಮೊದಲ ಸೇನಾ ಮುಖ್ಯಸ್ಥರಾದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"Which title did Cariappa receive?",
+          "questionKn":"ಕಾರಿಯಪ್ಪ ಯಾವ ಗೌರವ ಪಡೆದರು?",
+          "options":["Professor","Field Marshal","Scientist","Governor"],
+          "optionsKn":["ಪ್ರೊಫೆಸರ್","ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್","ವಿಜ್ಞಾನಿ","ಗವರ್ನರ್"],
+          "correctIndex":1,
+          "explanation":"Cariappa received the title of Field Marshal.",
+          "explanationKn":"ಕಾರಿಯಪ್ಪ ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಗೌರವ ಪಡೆದರು."
+        }
+
+      ],
+
+      "badgeId":"badge_cariappa",
+      "memorialName":"Cariappa Memorial, Kodagu"
+    },
+    {
+      "id":"kittur_chennamma","name":"Kittur Chennamma","nameKn":"ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ",
+      "title":"The Warrior Queen of Kittur","titleKn":"ಕಿತ್ತೂರಿನ ವೀರರಾಣಿ",
+      "districtId":"belagavi","districtName":"Belagavi","era":"1778–1829",
+      "category":"FREEDOM_FIGHTER","emoji":"👑",
+      "shortBio":"Rani Chennamma was India's first queen to take up arms against British colonialism, 33 years before the 1857 Sepoy Mutiny.","shortBioKn":"ರಾಣಿ ಚೆನ್ನಮ್ಮ ಭಾರತದ ಮೊದಲ ರಾಣಿ, ಬ್ರಿಟಿಷ್ ವಿರೋಧಿ ಹೋರಾಟ ಮಾಡಿದ ಮಹಾ ವೀರಾಂಗನೆ.",
+      "pages":[
+        {"pageNumber":1,"title":"A Queen Like No Other","titleKn":"ಅಸಾಧಾರಣ ರಾಣಿ","content":"In the green hills of Kittur in Belagavi, there lived a queen named Chennamma. Unlike other queens who stayed in palaces, she was trained in horse riding, sword fighting, and archery from childhood. She was not just a queen — she was a warrior!","contentKn":"ಬೆಳಗಾವಿಯ ಕಿತ್ತೂರಿನ ಹಸಿರು ಬೆಟ್ಟಗಳಲ್ಲಿ ಚೆನ್ನಮ್ಮ ಎಂಬ ರಾಣಿ ವಾಸಿಸುತ್ತಿದ್ದಳು. ಅರಮನೆಯಲ್ಲಿ ಇರುವ ಇತರ ರಾಣಿಯರಂತಲ್ಲದೇ, ಅವಳು ಬಾಲ್ಯದಿಂದಲೇ ಕುದುರೆ ಸವಾರಿ, ಖಡ್ಗ ಯುದ್ಧ ಮತ್ತು ಬಿಲ್ಲಿನ ತರಬೇತಿ ಪಡೆದಿದ್ದಳು. ಅವಳು ಕೇವಲ ರಾಣಿಯಲ್ಲ — ಅವಳೊಬ್ಬ ಯೋಧೆ!","illustrationEmoji":"👑","bgGradientStart":"#FFEBEE","bgGradientEnd":"#FFCDD2"},
+        {"pageNumber":2,"title":"The British Threat","titleKn":"ಬ್ರಿಟಿಷ್ ಬೆದರಿಕೆ","content":"In 1824, the British East India Company tried to capture Kittur using the 'Doctrine of Lapse' — a cruel law saying they could take over a kingdom if the king had no natural heir. Rani Chennamma refused to bow. She said: 'Kittur is mine. I will defend it with my life!'","contentKn":"1824ರಲ್ಲಿ, ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿ 'ದತ್ತು ಸ್ವೀಕಾರ ನಿಷೇಧ ನೀತಿ' ಬಳಸಿ ಕಿತ್ತೂರನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿತು. ರಾಣಿ ಚೆನ್ನಮ್ಮ ಶರಣಾಗಲು ನಿರಾಕರಿಸಿ ಹೇಳಿದಳು: 'ಕಿತ್ತೂರು ನನ್ನದು. ನಾನು ಜೀವ ಕೊಟ್ಟಾದರೂ ರಕ್ಷಿಸುತ್ತೇನೆ!'","illustrationEmoji":"⚔️","bgGradientStart":"#FFF3E0","bgGradientEnd":"#FFE0B2"},
+        {"pageNumber":3,"title":"Victory Over the British!","titleKn":"ಬ್ರಿಟಿಷರ ಮೇಲೆ ಜಯ!","content":"The Battle of Kittur erupted! Rani Chennamma led her army personally on horseback. Her soldiers fought so bravely that they captured two senior British officers — Thackeray and Stevenson! It was a historic victory. The British were stunned!","contentKn":"ಕಿತ್ತೂರು ಯುದ್ಧ ಆರಂಭವಾಯಿತು! ರಾಣಿ ಚೆನ್ನಮ್ಮ ಕುದುರೆ ಸವಾರಿ ಮಾಡಿ ಸ್ವತಃ ಸೈನ್ಯ ನಡೆಸಿದಳು. ಅವಳ ಸೈನಿಕರು ಎಷ್ಟು ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದರೆಂದರೆ ಇಬ್ಬರು ಹಿರಿಯ ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳನ್ನು ಸೆರೆ ಹಿಡಿದರು! ಇದು ಐತಿಹಾಸಿಕ ವಿಜಯ. ಬ್ರಿಟಿಷರು ದಿಗ್ಭ್ರಮೆ ಹೊಂದಿದರು!","illustrationEmoji":"🏰","bgGradientStart":"#E8F5E9","bgGradientEnd":"#C8E6C9"},
+        {"pageNumber":4,"title":"Her Undying Legacy","titleKn":"ಅಮರ ಪರಂಪರೆ","content":"Though captured later, Rani Chennamma never surrendered in spirit. She became the symbol of women's courage across India. Her statue stands proudly in Delhi's Parliament Street. October 23rd is celebrated as 'Kittur Utsava' in Karnataka every year. She is our Karnataka's Rani Lakshmi!","contentKn":"ನಂತರ ಸೆರೆ ಸಿಕ್ಕಿದರೂ, ರಾಣಿ ಚೆನ್ನಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಎಂದಿಗೂ ಶರಣಾಗಲಿಲ್ಲ. ಅವಳು ಭಾರತದಾದ್ಯಂತ ಮಹಿಳಾ ಧೈರ್ಯದ ಸಂಕೇತವಾದಳು. ದೆಹಲಿಯ ಸಂಸತ್ ರಸ್ತೆಯಲ್ಲಿ ಆಕೆಯ ಪ್ರತಿಮೆ ಹೆಮ್ಮೆಯಿಂದ ನಿಂತಿದೆ. ಅಕ್ಟೋಬರ್ 23 ಕರ್ನಾಟಕದಲ್ಲಿ 'ಕಿತ್ತೂರು ಉತ್ಸವ'ವಾಗಿ ಆಚರಿಸಲ್ಪಡುತ್ತದೆ!","illustrationEmoji":"🗿","bgGradientStart":"#EDE7F6","bgGradientEnd":"#D1C4E9"}
+      ],
+      "quiz":[
+        {"id":"q1","question":"In which year did the Battle of Kittur take place?","questionKn":"ಕಿತ್ತೂರು ಯುದ್ಧ ಯಾವ ವರ್ಷದಲ್ಲಿ ನಡೆಯಿತು?","options":["1857","1824","1900","1800"],"optionsKn":["1857","1824","1900","1800"],"correctIndex":1,"explanation":"The Battle of Kittur took place in 1824, making it one of India's FIRST armed revolts against the British — 33 years before the famous 1857 revolt!","explanationKn":"ಕಿತ್ತೂರು ಯುದ್ಧ 1824ರಲ್ಲಿ ನಡೆಯಿತು — ಇದು 1857ರ ದಂಗೆಗಿಂತ 33 ವರ್ಷ ಮೊದಲಿನ ಭಾರತದ ಮೊದಲ ಸಶಸ್ತ್ರ ದಂಗೆ!"},
+        {"id":"q2","question":"What was the British law that threatened Kittur?","questionKn":"ಕಿತ್ತೂರಿಗೆ ಅಪಾಯ ತಂದ ಬ್ರಿಟಿಷ್ ಕಾನೂನು ಯಾವುದು?","options":["Doctrine of Lapse","Salt Law","Rowlatt Act","Vernacular Press Act"],"optionsKn":["ದತ್ತು ಸ್ವೀಕಾರ ನಿಷೇಧ ನೀತಿ","ಉಪ್ಪಿನ ಕಾನೂನು","ರೌಲಟ್ ಆಕ್ಟ್","ದೇಶಭಾಷೆ ಪ್ರೆಸ್ ಆಕ್ಟ್"],"correctIndex":0,"explanation":"The Doctrine of Lapse allowed British to take over kingdoms that had no natural heir. Rani Chennamma fought against this unjust law!","explanationKn":"ದತ್ತು ಸ್ವೀಕಾರ ನಿಷೇಧ ನೀತಿ ಪ್ರಕಾರ ಉತ್ತರಾಧಿಕಾರಿ ಇಲ್ಲದ ರಾಜ್ಯವನ್ನು ಬ್ರಿಟಿಷರು ವಶಪಡಿಸಿಕೊಳ್ಳಬಹುದಿತ್ತು. ರಾಣಿ ಚೆನ್ನಮ್ಮ ಈ ಅನ್ಯಾಯದ ವಿರುದ್ಧ ಹೋರಾಡಿದಳು!"},
+        {"id":"q3","question":"On which date is Kittur Utsava celebrated in Karnataka?","questionKn":"ಕರ್ನಾಟಕದಲ್ಲಿ ಕಿತ್ತೂರು ಉತ್ಸವ ಯಾವ ದಿನ ಆಚರಿಸಲ್ಪಡುತ್ತದೆ?","options":["January 26","August 15","October 23","November 1"],"optionsKn":["ಜನವರಿ 26","ಆಗಸ್ಟ್ 15","ಅಕ್ಟೋಬರ್ 23","ನವೆಂಬರ್ 1"],"correctIndex":2,"explanation":"October 23rd is celebrated as Kittur Utsava across Karnataka to honor Rani Chennamma's brave fight against the British!","explanationKn":"ಅಕ್ಟೋಬರ್ 23 ರಾಣಿ ಚೆನ್ನಮ್ಮರ ಸ್ಮರಣೆಯಲ್ಲಿ ಕಿತ್ತೂರು ಉತ್ಸವವಾಗಿ ಆಚರಿಸಲ್ಪಡುತ್ತದೆ!"}
+      ],
+      "badgeId":"badge_chennamm_warrior",
+      "memorialName":"Kittur Fort & Rani Chennamma Statue, Belagavi",
+      "memorialLat":15.8497,"memorialLng":74.4977
+    },
+    {
+      "id":"sangolli_rayanna","name":"Sangolli Rayanna","nameKn":"ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+      "title":"The Lion of Kittur","titleKn":"ಕಿತ್ತೂರಿನ ಸಿಂಹ",
+      "districtId":"belagavi","districtName":"Belagavi","era":"1798–1831",
+      "category":"FREEDOM_FIGHTER","emoji":"🦁",
+      "shortBio":"A common man who became an extraordinary guerrilla fighter, defending Karnataka's honour against British rule.","shortBioKn":"ಒಬ್ಬ ಸಾಮಾನ್ಯ ಮನುಷ್ಯ ಅಸಾಮಾನ್ಯ ಯೋಧನಾದ — ಬ್ರಿಟಿಷ್ ವಿರುದ್ಧ ಕರ್ನಾಟಕದ ಗೌರವ ರಕ್ಷಿಸಿದ.",
+      "pages":[
+        {"pageNumber":1,"title":"Born in a Small Village","titleKn":"ಸಣ್ಣ ಗ್ರಾಮದಲ್ಲಿ ಜನನ","content":"Sangolli Rayanna was born in a tiny village called Sangolli in Belagavi district. He was not a prince or a soldier by birth. He was a common man — a Kuruba shepherd. But his heart burned with love for his land and his people!","contentKn":"ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಬೆಳಗಾವಿ ಜಿಲ್ಲೆಯ ಸಂಗೊಳ್ಳಿ ಎಂಬ ಸಣ್ಣ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದ. ಅವನು ರಾಜಕುಮಾರನಲ್ಲ, ಸೈನಿಕನಲ್ಲ. ಅವನು ಕುರುಬ ಜಾತಿಯ ಸಾಮಾನ್ಯ ಮನುಷ್ಯ. ಆದರೆ ಅವನ ಹೃದಯ ತನ್ನ ನೆಲ ಮತ್ತು ಜನರ ಪ್ರೀತಿಯಿಂದ ಉರಿಯುತ್ತಿತ್ತು!","illustrationEmoji":"🌿","bgGradientStart":"#E8F5E9","bgGradientEnd":"#C8E6C9"},
+        {"pageNumber":2,"title":"Guardian of Rani Chennamma","titleKn":"ರಾಣಿ ಚೆನ್ನಮ್ಮರ ರಕ್ಷಕ","content":"Rayanna became one of Rani Chennamma's bravest commanders. After the Battle of Kittur, when the Rani was imprisoned, Rayanna refused to accept defeat. He organized guerrilla warfare — attacking British supply lines at night, hiding in dense forests!","contentKn":"ರಾಯಣ್ಣ ರಾಣಿ ಚೆನ್ನಮ್ಮರ ಧೈರ್ಯಶಾಲಿ ಸೇನಾನಾಯಕರಲ್ಲಿ ಒಬ್ಬ. ಕಿತ್ತೂರು ಯುದ್ಧದ ನಂತರ ರಾಣಿ ಜೈಲಿಗೆ ಸೇರಿದಾಗ, ರಾಯಣ್ಣ ಸೋಲನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಲಿಲ್ಲ. ಅವನು ಗೆರಿಲ್ಲಾ ಯುದ್ಧ ಆರಂಭಿಸಿ — ರಾತ್ರಿ ಬ್ರಿಟಿಷ್ ಸರಬರಾಜು ಮಾರ್ಗ ದಾಳಿ, ಕಾಡಿನಲ್ಲಿ ಅಡಗಿ ಕೊಂಡ!","illustrationEmoji":"🌲","bgGradientStart":"#FFF8E1","bgGradientEnd":"#FFECB3"},
+        {"pageNumber":3,"title":"The Forest Ghost","titleKn":"ಕಾಡಿನ ಭೂತ","content":"The British called Rayanna 'the Forest Ghost.' They could never catch him! He would appear suddenly, strike hard, and disappear into the jungle. He freed many prisoners. He burned British tax records. He was the voice of the common people!","contentKn":"ಬ್ರಿಟಿಷರು ರಾಯಣ್ಣನನ್ನು 'ಕಾಡಿನ ಭೂತ' ಎಂದು ಕರೆದರು. ಅವರಿಗೆ ಅವನನ್ನು ಹಿಡಿಯಲೇ ಆಗಲಿಲ್ಲ! ಅವನು ಹಠಾತ್ತನೆ ಪ್ರತ್ಯಕ್ಷನಾಗಿ, ಗಟ್ಟಿಯಾಗಿ ಹೊಡೆದು, ಕಾಡಿನಲ್ಲಿ ಮಾಯವಾಗುತ್ತಿದ್ದ. ಅನೇಕ ಕೈದಿಗಳನ್ನು ಬಿಡಿಸಿದ. ಬ್ರಿಟಿಷ್ ತೆರಿಗೆ ದಾಖಲೆಗಳನ್ನು ಸುಟ್ಟ. ಅವನು ಸಾಮಾನ್ಯ ಜನರ ಕಂಠಸ್ವರ!","illustrationEmoji":"🌙","bgGradientStart":"#FCE4EC","bgGradientEnd":"#F8BBD0"},
+        {"pageNumber":4,"title":"Martyr's Eternal Glory","titleKn":"ಹುತಾತ್ಮನ ಅಮರ ಕೀರ್ತಿ","content":"Betrayed by a mole, Rayanna was finally caught. Even at the gallows in 1831, he stood tall with fire in his eyes and shouted: 'Long live Kittur! Long live my motherland!' His courage lives on in every Karnataka child forever. He is a true hero of the people!","contentKn":"ಮೋಸದ ಮೂಲಕ ರಾಯಣ್ಣ ಅಂತಿಮವಾಗಿ ಸೆರೆಸಿಕ್ಕ. 1831ರಲ್ಲಿ ಗಲ್ಲುಸ್ತಂಭದ ಮೇಲೂ ಅವನ ಕಣ್ಣಲ್ಲಿ ಕಿಡಿ ಉರಿಯುತ್ತಿತ್ತು: 'ಕಿತ್ತೂರು ಅಮರ ವಾಗಲಿ! ನನ್ನ ತಾಯ್ನಾಡು ಅಮರ ವಾಗಲಿ!' ಅವನ ಧೈರ್ಯ ಕರ್ನಾಟಕದ ಪ್ರತಿ ಮಗುವಿನಲ್ಲಿ ಶಾಶ್ವತ ವಾಗಿ ಜೀವಿಸುತ್ತದೆ!","illustrationEmoji":"🏳️","bgGradientStart":"#EDE7F6","bgGradientEnd":"#D1C4E9"}
+      ],
+      "quiz":[
+        {"id":"q1","question":"What community did Sangolli Rayanna belong to?","questionKn":"ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಯಾವ ಸಮುದಾಯದವರು?","options":["Brahmin","Kuruba shepherd","Banjara","Lingayat"],"optionsKn":["ಬ್ರಾಹ್ಮಣ","ಕುರುಬ ಕುಲ","ಬಂಜಾರ","ಲಿಂಗಾಯತ"],"correctIndex":1,"explanation":"Rayanna was a Kuruba shepherd — a common man who proved that heroism knows no caste or class!","explanationKn":"ರಾಯಣ್ಣ ಕುರುಬ ಕುಲದ ಸಾಮಾನ್ಯ ಮನುಷ್ಯ — ವೀರತ್ವಕ್ಕೆ ಜಾತಿ ಅಡ್ಡ ಬರಲ್ಲ ಎಂದು ತೋರಿಸಿದ!"},
+        {"id":"q2","question":"What fighting style did Rayanna use against the British?","questionKn":"ರಾಯಣ್ಣ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಯಾವ ಯುದ್ಧ ವಿಧಾನ ಬಳಸಿದ?","options":["Open-field battle","Diplomacy","Guerrilla warfare","Naval battle"],"optionsKn":["ತೆರೆದ ಯುದ್ಧ","ರಾಜನೀತಿ","ಗೆರಿಲ್ಲಾ ಯುದ್ಧ","ನೌಕಾ ಯುದ್ಧ"],"correctIndex":2,"explanation":"Rayanna used guerrilla warfare — striking suddenly, hiding in forests, making it impossible for the British to catch him!","explanationKn":"ರಾಯಣ್ಣ ಗೆರಿಲ್ಲಾ ಯುದ್ಧ ಬಳಸಿ — ಹಠಾತ್ ದಾಳಿ, ಕಾಡಿನಲ್ಲಿ ಅಡಗಿ, ಬ್ರಿಟಿಷರಿಗೆ ಹಿಡಿಯಲು ಅಸಾಧ್ಯ ಮಾಡಿದ!"},
+        {"id":"q3","question":"In which year was Sangolli Rayanna executed?","questionKn":"ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣರಿಗೆ ಗಲ್ಲು ಶಿಕ್ಷೆ ಯಾವ ವರ್ಷ?","options":["1829","1831","1857","1900"],"optionsKn":["1829","1831","1857","1900"],"correctIndex":1,"explanation":"Rayanna was executed in 1831 but his defiant last words 'Long live Kittur!' have inspired generations!","explanationKn":"ರಾಯಣ್ಣರಿಗೆ 1831ರಲ್ಲಿ ಗಲ್ಲು ಶಿಕ್ಷೆ ಆಯಿತು. 'ಕಿತ್ತೂರು ಅಮರ ವಾಗಲಿ!' ಎಂಬ ಅವರ ಕೊನೆಯ ಮಾತು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ!"}
+      ],
+      "badgeId":"badge_rayanna_lion",
+      "memorialName":"Sangolli Rayanna Statue, Belagavi",
+      "memorialLat":15.8497,"memorialLng":74.4977
+    },
+    {
+      "id":"kuvempu","name":"Kuvempu","nameKn":"ಕುವೆಂಪು",
+      "title":"The People's Poet of Karnataka","titleKn":"ಕರ್ನಾಟಕದ ರಾಷ್ಟ್ರಕವಿ",
+      "districtId":"shivamogga","districtName":"Shivamogga","era":"1904–1994",
+      "category":"POET","emoji":"📜",
+      "shortBio":"K.V. Puttappa, known as Kuvempu, was Karnataka's greatest poet who gave us our State Anthem and pioneered universal humanism.","shortBioKn":"ಕೆ.ವಿ. ಪುಟ್ಟಪ್ಪ, ಕುವೆಂಪು ಎಂದು ಖ್ಯಾತರಾದ, ಕರ್ನಾಟಕದ ಶ್ರೇಷ್ಠ ಕವಿ ರಾಜ್ಯ ಗೀತೆ ನೀಡಿದ ರಾಷ್ಟ್ರಕವಿ.",
+      "pages":[
+        {"pageNumber":1,"title":"Child of the Western Ghats","titleKn":"ಮಲೆನಾಡ ಮಗ","content":"K.V. Puttappa was born in 1904 in Kuppalli village in Shivamogga district, in the beautiful Western Ghats. Growing up surrounded by dense forests, rivers, and misty mountains, nature became his greatest teacher. He would later write about this magical land in ways that made all of Karnataka fall in love with it!","contentKn":"ಕೆ.ವಿ. ಪುಟ್ಟಪ್ಪ 1904ರಲ್ಲಿ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಕುಪ್ಪಳ್ಳಿ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ದಟ್ಟ ಕಾಡು, ನದಿ, ಮಂಜು ಆವರಿಸಿದ ಬೆಟ್ಟಗಳ ನಡುವೆ ಬೆಳೆದ ಅವರಿಗೆ ಪ್ರಕೃತಿಯೇ ಶ್ರೇಷ್ಠ ಗುರು!","illustrationEmoji":"🌲","bgGradientStart":"#E8F5E9","bgGradientEnd":"#C8E6C9"},
+        {"pageNumber":2,"title":"Karnataka's Own Anthem","titleKn":"ಕರ್ನಾಟಕದ ನಾಡಗೀತೆ","content":"Kuvempu wrote 'Jaya Bharata Jananiya Tanujate' — Karnataka's State Anthem! Every Karnataka student sings these words. He believed that a state's greatness lies not in its rulers but in its culture, language, and people. His poem gave Karnataka a voice and a soul!","contentKn":"ಕುವೆಂಪು 'ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ' ಬರೆದರು — ಕರ್ನಾಟಕದ ನಾಡಗೀತೆ! ಕರ್ನಾಟಕದ ಪ್ರತಿ ವಿದ್ಯಾರ್ಥಿ ಈ ಮಾತುಗಳನ್ನು ಹಾಡುತ್ತಾರೆ. ರಾಜ್ಯದ ಶ್ರೇಷ್ಠತೆ ಸಂಸ್ಕೃತಿ, ಭಾಷೆ ಮತ್ತು ಜನರಲ್ಲಿದೆ ಎಂಬ ಅವರ ನಂಬಿಕೆ ಕರ್ನಾಟಕಕ್ಕೆ ಆತ್ಮ ನೀಡಿತು!","illustrationEmoji":"🎵","bgGradientStart":"#FFF8E1","bgGradientEnd":"#FFECB3"},
+        {"pageNumber":3,"title":"Universal Humanism","titleKn":"ವಿಶ್ವಮಾನವ ಸಂದೇಶ","content":"Kuvempu's greatest message was 'Vishwamanava' — Universal Humanism. He said: 'Before you are a Hindu, Christian, Muslim, Brahmin or Dalit — you are a HUMAN BEING!' He fought against caste discrimination with his pen. His novel 'Kanooru Heggadithi' showed the beauty and pain of women's lives in rural Karnataka.","contentKn":"ಕುವೆಂಪುರ ಶ್ರೇಷ್ಠ ಸಂದೇಶ 'ವಿಶ್ವಮಾನವ'. ಅವರು ಹೇಳಿದರು: 'ನೀನು ಹಿಂದೂ, ಕ್ರಿಶ್ಚಿಯನ್, ಮುಸ್ಲಿಂ, ಬ್ರಾಹ್ಮಣ ಅಥವಾ ದಲಿತನಾಗುವ ಮೊದಲು — ನೀನೊಬ್ಬ ಮಾನವ!' ತಮ್ಮ ಲೇಖನಿಯಿಂದ ಜಾತಿ ತಾರತಮ್ಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು!","illustrationEmoji":"🌍","bgGradientStart":"#E3F2FD","bgGradientEnd":"#BBDEFB"},
+        {"pageNumber":4,"title":"Jnanpith and Rashtrakavi","titleKn":"ಜ್ಞಾನಪೀಠ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ","content":"Kuvempu received India's highest literary award — the Jnanpith Award — twice! He was honoured as 'Rashtrakavi' (National Poet) of Karnataka. His works like 'Sri Ramayana Darshanam' and 'Malegalalli Madumagalu' are masterpieces of Kannada literature. His home in Kuppalli is now a museum!","contentKn":"ಕುವೆಂಪು ಭಾರತದ ಅತ್ಯುನ್ನತ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ ಜ್ಞಾನಪೀಠ ಎರಡು ಬಾರಿ ಪಡೆದರು! 'ರಾಷ್ಟ್ರಕವಿ' ಪ್ರಶಸ್ತಿ ನೀಡಿ ಗೌರವಿಸಲಾಯಿತು. ಕುಪ್ಪಳ್ಳಿಯಲ್ಲಿ ಅವರ ಮನೆ ಈಗ ಮ್ಯೂಸಿಯಂ ಆಗಿದೆ!","illustrationEmoji":"📚","bgGradientStart":"#F3E5F5","bgGradientEnd":"#E1BEE7"}
+      ],
+      "quiz":[
+        {"id":"q1","question":"What is Karnataka's State Anthem written by Kuvempu?","questionKn":"ಕುವೆಂಪು ಬರೆದ ಕರ್ನಾಟಕದ ನಾಡಗೀತೆ ಯಾವುದು?","options":["Vande Mataram","Jaya Bharata Jananiya Tanujate","Jana Gana Mana","Karunadu Karnataka"],"optionsKn":["ವಂದೇ ಮಾತರಂ","ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ","ಜನ ಗಣ ಮನ","ಕರುನಾಡ ಕರ್ನಾಟಕ"],"correctIndex":1,"explanation":"'Jaya Bharata Jananiya Tanujate' is Karnataka's State Anthem. You sing it every day at school — it was written by our great Kuvempu!","explanationKn":"'ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ' ಕರ್ನಾಟಕದ ನಾಡಗೀತೆ. ನೀವು ಶಾಲೆಯಲ್ಲಿ ಪ್ರತಿದಿನ ಹಾಡುತ್ತೀರಿ — ಇದನ್ನು ನಮ್ಮ ಶ್ರೇಷ್ಠ ಕುವೆಂಪು ಬರೆದರು!"},
+        {"id":"q2","question":"What was Kuvempu's philosophy called?","questionKn":"ಕುವೆಂಪುರ ತತ್ವಜ್ಞಾನ ಏನು?","options":["Vishwamanava","Satyagraha","Ahimsa","Dharma"],"optionsKn":["ವಿಶ್ವಮಾನವ","ಸತ್ಯಾಗ್ರಹ","ಅಹಿಂಸೆ","ಧರ್ಮ"],"correctIndex":0,"explanation":"Vishwamanava (Universal Humanism) was Kuvempu's core belief — that we are all human beings first, before any religion or caste!","explanationKn":"ವಿಶ್ವಮಾನವ (ವಿಶ್ವ ಮಾನವತಾವಾದ) ಕುವೆಂಪುರ ಮೂಲ ನಂಬಿಕೆ — ಯಾವ ಧರ್ಮ ಅಥವಾ ಜಾತಿಗಿಂತ ಮೊದಲು ನಾವೆಲ್ಲ ಮಾನವರು!"},
+        {"id":"q3","question":"In which village was Kuvempu born?","questionKn":"ಕುವೆಂಪು ಯಾವ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು?","options":["Shivamogga","Kuppalli","Sagara","Tirthahalli"],"optionsKn":["ಶಿವಮೊಗ್ಗ","ಕುಪ್ಪಳ್ಳಿ","ಸಾಗರ","ತೀರ್ಥಹಳ್ಳಿ"],"correctIndex":1,"explanation":"Kuvempu was born in Kuppalli village in the beautiful Western Ghats of Shivamogga district. His home there is now a famous museum!","explanationKn":"ಕುವೆಂಪು ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಮಲೆನಾಡಿನ ಕುಪ್ಪಳ್ಳಿ ಗ்ராಮದಲ್ಲಿ ಜನಿಸಿದರು. ಅವರ ಮನೆ ಈಗ ಪ್ರಸಿದ್ಧ ಮ್ಯೂಸಿಯಂ!"}
+      ],
+      "badgeId":"badge_kuvempu_poet",
+      "memorialName":"Kavi Shailaa, Kuppalli, Shivamogga",
+      "memorialLat":13.9299,"memorialLng":75.5681
+    },
+    {
+      "id":"visvesvaraya","name":"Sir M. Visvesvaraya","nameKn":"ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+      "title":"The Architect of Modern India","titleKn":"ಆಧುನಿಕ ಭಾರತದ ವಿನ್ಯಾಸಕ",
+      "districtId":"hassan","districtName":"Hassan","era":"1861–1962",
+      "category":"SCIENTIST","emoji":"🔧",
+      "shortBio":"Sir MV was India's greatest engineer and statesman whose innovations still benefit millions — the father of modern Karnataka.","shortBioKn":"ಸರ್ ಎಂ.ವಿ. ಭಾರತದ ಶ್ರೇಷ್ಠ ಇಂಜಿನಿಯರ್ — ಆಧುನಿಕ ಕರ್ನಾಟಕದ ಪಿತಾಮಹ.",
+      "pages":[
+        {"pageNumber":1,"title":"The Boy Who Fixed the Leaky Drain","titleKn":"ಕೊಳವೆ ಸರಿಪಡಿಸಿದ ಬಾಲಕ","content":"Young Mokshagundam Visvesvaraya was known for his sharp mind from childhood. Once, he noticed a broken drainage pipe flooding his village. While adults debated, young MV jumped in and fixed it himself! That problem-solving spirit never left him.","contentKn":"ಚಿಕ್ಕ ಮೋಕ್ಷಗುಂಡಂ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಬಾಲ್ಯದಿಂದಲೇ ತೀಕ್ಷ್ಣ ಮನಸ್ಸಿಗೆ ಹೆಸರಾಗಿದ್ದ. ಒಮ್ಮೆ ಒಡೆದ ಒಳಚರಂಡಿ ಕೊಳವೆ ಊರಿಗೆ ನೀರು ಹರಿಸುತ್ತಿರಲು, ಮಕ್ಕಳು ಚರ್ಚಿಸುತ್ತಿರಲು, ಎಂ.ವಿ. ಧುಮಕಿ ಅದನ್ನು ಸ್ವತಃ ಸರಿಪಡಿಸಿದ!","illustrationEmoji":"🔧","bgGradientStart":"#E3F2FD","bgGradientEnd":"#BBDEFB"},
+        {"pageNumber":2,"title":"The Floodgates Inventor","titleKn":"ಕ್ರಾಂತಿಕಾರಿ ಬಾಗಿಲು ಕಂಡುಹಿಡಿದ","content":"While working as an engineer in Pune, Visvesvaraya invented automatic floodgates for the Khadakwasla reservoir. These gates automatically opened when water levels rose, preventing floods! This revolutionary invention was adopted across India. He was only 27 years old when he designed it!","contentKn":"ಪುಣೆಯಲ್ಲಿ ಇಂಜಿನಿಯರ್ ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿರುವಾಗ, ವಿಶ್ವೇಶ್ವರಯ್ಯ ಖಡಕ್ ವಾಸ್ಲಾ ಜಲಾಶಯಕ್ಕೆ ಸ್ವಯಂಚಾಲಿತ ನೀರಿನ ಬಾಗಿಲು ಕಂಡುಹಿಡಿದರು! ಈ ಕ್ರಾಂತಿಕಾರಿ ಆವಿಷ್ಕಾರ ಭಾರತದಾದ್ಯಂತ ಅನ್ವಯ ಆಯಿತು!","illustrationEmoji":"💧","bgGradientStart":"#E8F5E9","bgGradientEnd":"#C8E6C9"},
+        {"pageNumber":3,"title":"Diwan of Mysore — Builder of a Modern State","titleKn":"ಮೈಸೂರಿನ ದಿವಾನ — ರಾಜ್ಯ ನಿರ್ಮಾತೃ","content":"As Diwan (Prime Minister) of Mysore state, Visvesvaraya built the Krishnaraja Sagara dam — one of Asia's largest dams! He started Mysore University, NIMHANS, the Bank of Mysore, and many factories. He turned Mysore into a model state that the whole world admired!","contentKn":"ಮೈಸೂರು ರಾಜ್ಯದ ದಿವಾನ (ಪ್ರಧಾನಮಂತ್ರಿ) ಆಗಿ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಕೃಷ್ಣರಾಜ ಸಾಗರ ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿದರು! ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, NIMHANS, ಮೈಸೂರು ಬ್ಯಾಂಕ್ ಆರಂಭಿಸಿದರು. ಮೈಸೂರನ್ನು ಜಗತ್ತು ಮೆಚ್ಚುವ ಮಾದರಿ ರಾಜ್ಯ ಮಾಡಿದರು!","illustrationEmoji":"🏗️","bgGradientStart":"#FFF8E1","bgGradientEnd":"#FFECB3"},
+        {"pageNumber":4,"title":"Bharat Ratna at 100!","titleKn":"100 ವರ್ಷಕ್ಕೆ ಭಾರತ ರತ್ನ!","content":"Visvesvaraya lived to be 101 years old! He worked every single day until he was 90. India awarded him the Bharat Ratna — the highest honour — in 1955. His birthday, September 15th, is celebrated as 'Engineers Day' across India every year. He is the pride of all Karnataka!","contentKn":"ವಿಶ್ವೇಶ್ವರಯ್ಯ 101 ವರ್ಷ ಜೀವಿಸಿದರು! 90ನೇ ವರ್ಷದವರೆಗೆ ಪ್ರತಿದಿನ ಕೆಲಸ ಮಾಡಿದರು. 1955ರಲ್ಲಿ ಭಾರತ ರತ್ನ ನೀಡಲಾಯಿತು. ಅವರ ಜನ್ಮದಿನ ಸೆಪ್ಟೆಂಬರ್ 15 ಭಾರತದಾದ್ಯಂತ 'ಇಂಜಿನಿಯರ್ಸ್ ಡೇ' ಆಗಿ ಆಚರಿಸಲ್ಪಡುತ್ತದೆ!","illustrationEmoji":"🏆","bgGradientStart":"#FCE4EC","bgGradientEnd":"#F8BBD0"}
+      ],
+      "quiz":[
+        {"id":"q1","question":"What did Visvesvaraya invent for the Khadakwasla reservoir?","questionKn":"ಖಡಕ್ ವಾಸ್ಲಾ ಜಲಾಶಯಕ್ಕೆ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಏನು ಕಂಡುಹಿಡಿದರು?","options":["Electric generator","Automatic floodgates","Railway engine","Wireless radio"],"optionsKn":["ವಿದ್ಯುತ್ ಜನರೇಟರ್","ಸ್ವಯಂಚಾಲಿತ ನೀರಿನ ಬಾಗಿಲು","ರೈಲ್ವೆ ಇಂಜಿನ್","ವಯರ್‌ಲೆಸ್ ರೇಡಿಯೋ"],"correctIndex":1,"explanation":"Visvesvaraya invented automatic steel floodgates that prevented floods by opening automatically when water rose above a safe level!","explanationKn":"ವಿಶ್ವೇಶ್ವರಯ್ಯ ಸ್ವಯಂಚಾಲಿತ ಉಕ್ಕಿನ ನೀರಿನ ಬಾಗಿಲು ಕಂಡುಹಿಡಿದರು — ನೀರು ಮಟ್ಟ ಏರಿದಾಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆಯುತ್ತಿದ್ದ!"},
+        {"id":"q2","question":"What is celebrated on September 15th, Visvesvaraya's birthday?","questionKn":"ವಿಶ್ವೇಶ್ವರಯ್ಯ ಜನ್ಮದಿನ ಸೆಪ್ಟೆಂಬರ್ 15 ಏನಾಗಿ ಆಚರಿಸಲ್ಪಡುತ್ತದೆ?","options":["Teachers Day","Engineers Day","Science Day","Technology Day"],"optionsKn":["ಶಿಕ್ಷಕರ ದಿನ","ಇಂಜಿನಿಯರ್ಸ್ ದಿನ","ವಿಜ್ಞಾನ ದಿನ","ತಂತ್ರಜ್ಞಾನ ದಿನ"],"correctIndex":1,"explanation":"September 15th is celebrated as Engineers Day across India to honour Visvesvaraya's extraordinary contributions to engineering!","explanationKn":"ಸೆಪ್ಟೆಂಬರ್ 15 ಭಾರತದಾದ್ಯಂತ ಇಂಜಿನಿಯರ್ಸ್ ದಿನ — ವಿಶ್ವೇಶ್ವರಯ್ಯರ ಅಸಾಧಾರಣ ಕೊಡುಗೆ ಗೌರವಿಸಲು!"},
+        {"id":"q3","question":"How old was Visvesvaraya when he died?","questionKn":"ವಿಶ್ವೇಶ್ವರಯ್ಯ ಎಷ್ಟು ವಯಸ್ಸಿನಲ್ಲಿ ನಿಧನ ಹೊಂದಿದರು?","options":["81","91","101","111"],"optionsKn":["81","91","101","111"],"correctIndex":2,"explanation":"Visvesvaraya lived to be 101 years old and continued working productively until age 90 — truly remarkable!","explanationKn":"ವಿಶ್ವೇಶ್ವರಯ್ಯ 101 ವರ್ಷ ಜೀವಿಸಿ 90ರ ವಯಸ್ಸಿನವರೆಗೆ ಸಕ್ರಿಯವಾಗಿ ಕೆಲಸ ಮಾಡಿದರು!"}
+      ],
+      "badgeId":"badge_mv_builder",
+      "memorialName":"Sir M. Visvesvaraya Museum, Muddenahalli, Hassan",
+      "memorialLat":13.0035,"memorialLng":76.1004
+    },
+    {
+      "id":"basavanna","name":"Basavanna","nameKn":"ಬಸವಣ್ಣ",
+      "title":"Saint of Equality & Social Reformer","titleKn":"ಸಮಾನತೆಯ ಸಂತ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ",
+      "districtId":"raichur","districtName":"Raichur","era":"1131–1167 CE",
+      "category":"SOCIAL_REFORMER","emoji":"🙏",
+      "shortBio":"Basavanna was a 12th-century philosopher, statesman and poet who fought against caste discrimination with his immortal Vachanas.","shortBioKn":"ಬಸವಣ್ಣ 12ನೇ ಶತಮಾನದ ತತ್ವಜ್ಞಾನಿ, ರಾಜನೀತಿಜ್ಞ ಮತ್ತು ಕವಿ — ಜಾತಿ ಭೇದ ವಿರುದ್ಧ ಅಮರ ವಚನಗಳ ಮೂಲಕ ಹೋರಾಡಿದರು.",
+      "pages":[
+        {"pageNumber":1,"title":"The Child Who Questioned","titleKn":"ಪ್ರಶ್ನಿಸಿದ ಮಗು","content":"In 1131 CE in Bagewadi (near modern Raichur), a boy named Basavanna was born. When he was just 8 years old, during a sacred thread ceremony, he stood up and asked: 'Why should only some people be considered holy and others not? Are we not all equal in God's eyes?' This brave question shocked everyone!","contentKn":"ಕ್ರಿ.ಶ. 1131ರಲ್ಲಿ ಬಾಗೇವಾಡಿಯಲ್ಲಿ (ಇಂದಿನ ರಾಯಚೂರು ಬಳಿ) ಬಸವಣ್ಣ ಜನಿಸಿದ. ಅವನಿಗೆ ಕೇವಲ 8 ವರ್ಷ ಇರಲು, ಯಜ್ಞೋಪವೀತ ಸಮಾರಂಭದಲ್ಲಿ ನಿಂತು ಕೇಳಿದ: 'ಕೆಲವರಷ್ಟೇ ಪವಿತ್ರ, ಇತರರು ಅಲ್ಲ ಎಂದು ಯಾಕೆ? ದೇವರ ಕಣ್ಣಿನಲ್ಲಿ ನಾವೆಲ್ಲ ಸಮಾನರಲ್ಲವೇ?' ಈ ಧೈರ್ಯದ ಪ್ರಶ್ನೆ ಎಲ್ಲರನ್ನೂ ಅಚ್ಚರಿಗೊಳಿಸಿತು!","illustrationEmoji":"❓","bgGradientStart":"#FFF8E1","bgGradientEnd":"#FFECB3"},
+        {"pageNumber":2,"title":"Anubhava Mantapa — World's First Parliament","titleKn":"ಅನುಭವ ಮಂಟಪ — ಜಗತ್ತಿನ ಮೊದಲ ಸಂಸತ್ತು","content":"As Prime Minister of the Kalachuri dynasty, Basavanna created the 'Anubhava Mantapa' — a hall where men AND women of all castes sat together equally to discuss philosophy and life! This was 900 years ago — the world's first democratic and inclusive assembly. Even cobblers and weavers had a voice here!","contentKn":"ಕಲಚೂರಿ ರಾಜ್ಯದ ಪ್ರಧಾನ ಮಂತ್ರಿಯಾಗಿ ಬಸವಣ್ಣ 'ಅನುಭವ ಮಂಟಪ' ಸ್ಥಾಪಿಸಿದರು — ಎಲ್ಲ ಜಾತಿಯ ಪುರುಷ ಮತ್ತು ಮಹಿಳೆ ಸಮಾನವಾಗಿ ಕುಳಿತು ತತ್ವ ಚರ್ಚಿಸುತ್ತಿದ್ದ ಸಭೆ! ಇದು 900 ವರ್ಷ ಹಿಂದೆ — ಜಗತ್ತಿನ ಮೊದಲ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಸಭೆ!","illustrationEmoji":"🏛️","bgGradientStart":"#E3F2FD","bgGradientEnd":"#BBDEFB"},
+        {"pageNumber":3,"title":"Vachanas — Songs of Truth","titleKn":"ವಚನಗಳು — ಸತ್ಯದ ಹಾಡುಗಳು","content":"Basavanna wrote powerful short poems called 'Vachanas' in simple Kannada that everyone could understand. His most famous vachana says: 'ಕಳಬೇಡ, ಕೊಲಬೇಡ, ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ' — meaning 'Do not steal, do not kill, do not lie.' These simple words teach the greatest lessons of life!","contentKn":"ಬಸವಣ್ಣ ಎಲ್ಲರಿಗೂ ಅರ್ಥವಾಗುವ ಸರಳ ಕನ್ನಡದಲ್ಲಿ ಶಕ್ತಿಯುತ ಕಿರು ಕವಿತೆಗಳು 'ವಚನ'ಗಳನ್ನು ಬರೆದರು. ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ವಚನ: 'ಕಳಬೇಡ, ಕೊಲಬೇಡ, ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ' — ಈ ಸರಳ ಮಾತುಗಳಲ್ಲಿ ಜೀವನದ ಅತ್ಯಂತ ಮಹಾ ಪಾಠ!","illustrationEmoji":"📖","bgGradientStart":"#F3E5F5","bgGradientEnd":"#E1BEE7"},
+        {"pageNumber":4,"title":"Work is Worship","titleKn":"ಕಾಯಕವೇ ಕೈಲಾಸ","content":"Basavanna's revolutionary idea was 'Kayakave Kailasa' — 'Work is Worship.' He said every honest job, whether farming, cobbling, or cooking, is equally holy. He abolished caste discrimination 900 years before the modern world even began talking about equality! His legacy shapes Karnataka to this day.","contentKn":"ಬಸವಣ್ಣರ ಕ್ರಾಂತಿಕಾರಿ ಆಲೋಚನೆ 'ಕಾಯಕವೇ ಕೈಲಾಸ'. ರೈತ, ಚಮ್ಮಾರ, ಅಡುಗೆಯವನ — ಪ್ರತಿಯೊಂದು ಪ್ರಾಮಾಣಿಕ ಕೆಲಸ ಸಮಾನವಾಗಿ ಪವಿತ್ರ ಎಂದರು. ಆಧುನಿಕ ಜಗತ್ತು ಸಮಾನತೆ ಮಾತಾಡಲು 900 ವರ್ಷ ಮೊದಲು ಜಾತಿ ತಾರತಮ್ಯ ನಿರ್ಮೂಲನ ಮಾಡಿದರು!","illustrationEmoji":"🌟","bgGradientStart":"#E8F5E9","bgGradientEnd":"#C8E6C9"}
+      ],
+      "quiz":[
+        {"id":"q1","question":"What was the assembly created by Basavanna called?","questionKn":"ಬಸವಣ್ಣ ಸ್ಥಾಪಿಸಿದ ಸಭೆಯ ಹೆಸರು?","options":["Anubhava Mantapa","Lok Sabha","Gram Panchayat","Rajya Sabha"],"optionsKn":["ಅನುಭವ ಮಂಟಪ","ಲೋಕ ಸಭೆ","ಗ್ರಾಮ ಪಂಚಾಯಿತಿ","ರಾಜ್ಯ ಸಭೆ"],"correctIndex":0,"explanation":"Anubhava Mantapa was Basavanna's revolutionary democratic assembly where all people, regardless of caste or gender, participated equally!","explanationKn":"ಅನುಭವ ಮಂಟಪ ಬಸವಣ್ಣರ ಕ್ರಾಂತಿಕಾರಿ ಪ್ರಜಾಪ್ರಭುತ್ವ ಸಭೆ — ಜಾತಿ ಮತ್ತು ಲಿಂಗ ಭೇದ ಇಲ್ಲದೆ ಎಲ್ಲರೂ ಸಮಾನವಾಗಿ ಭಾಗವಹಿಸಿದರು!"},
+        {"id":"q2","question":"What does 'Kayakave Kailasa' mean?","questionKn":"'ಕಾಯಕವೇ ಕೈಲಾಸ' ಅರ್ಥ ಏನು?","options":["Silence is golden","Work is Worship","God is everywhere","Nature is divine"],"optionsKn":["ಮೌನ ಚಿನ್ನ","ಕಾಯಕವೇ ಕೈಲಾಸ","ದೇವರು ಎಲ್ಲೆಡೆ","ಪ್ರಕೃತಿ ದಿವ್ಯ"],"correctIndex":1,"explanation":"'Kayakave Kailasa' means 'Work is Worship' — Basavanna taught that every honest job is sacred and noble!","explanationKn":"'ಕಾಯಕವೇ ಕೈಲಾಸ' ಅಂದರೆ ಕೆಲಸವೇ ದೇವರು — ಪ್ರಾಮಾಣಿಕ ಕೆಲಸ ಪವಿತ್ರ ಮತ್ತು ಶ್ರೇಷ್ಠ ಎಂದು ಬಸವಣ್ಣ ಕಲಿಸಿದರು!"},
+        {"id":"q3","question":"What did Basavanna write to spread his message?","questionKn":"ಬಸವಣ್ಣ ತಮ್ಮ ಸಂದೇಶ ಹರಡಲು ಏನು ಬರೆದರು?","options":["Novels","Vachanas","Epics","Scriptures"],"optionsKn":["ಕಾದಂಬರಿ","ವಚನಗಳು","ಮಹಾಕಾವ್ಯ","ಶಾಸ್ತ್ರ"],"correctIndex":1,"explanation":"Basavanna wrote Vachanas — short, powerful poems in simple Kannada that everyone could understand and recite!","explanationKn":"ಬಸವಣ್ಣ ವಚನಗಳನ್ನು ಬರೆದರು — ಸರಳ ಕನ್ನಡದಲ್ಲಿ ಶಕ್ತಿಯುತ ಕಿರು ಕವಿತೆಗಳು, ಎಲ್ಲರೂ ಅರ್ಥ ಮಾಡಿಕೊಂಡು ಹೇಳಬಹುದು!"}
+      ],
+      "badgeId":"badge_basavanna_saint",
+      "memorialName":"Basavanna Statue, Basavakalyan, Raichur",
+      "memorialLat":17.8712,"memorialLng":76.9503
+    },
+    {
+      "id":"tipu_sultan",
+      "name":"Tipu Sultan",
+      "nameKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+      "title":"Tiger of Mysore",
+      "titleKn":"ಮೈಸೂರಿನ ಹುಲಿ",
+      "districtId":"mysuru",
+      "districtName":"Mysuru",
+      "era":"1751–1799",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"🐯",
+      "shortBio":"Tipu Sultan was one of India's bravest kings who fought fiercely against British colonial rule.",
+      "shortBioKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದ ಭಾರತದ ಶ್ರೇಷ್ಠ ರಾಜರಲ್ಲಿ ಒಬ್ಬರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"Born to Rule",
+          "titleKn":"ಆಳಲು ಹುಟ್ಟಿದ ರಾಜ",
+          "content":"In 1751, in the kingdom of Mysore, a prince named Tipu was born. From a young age, he learned horse riding, sword fighting, and military strategy. His father, Hyder Ali, knew Tipu was destined for greatness.",
+          "contentKn":"1751ರಲ್ಲಿ ಮೈಸೂರು ರಾಜ್ಯದಲ್ಲಿ ಟಿಪ್ಪು ಎಂಬ ರಾಜಕುಮಾರ ಜನಿಸಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಕುದುರೆ ಸವಾರಿ, ಖಡ್ಗ ಯುದ್ಧ ಮತ್ತು ಯುದ್ಧ ತಂತ್ರ ಕಲಿತರು. ಅವರ ತಂದೆ ಹೈದರ್ ಅಲಿ, ಟಿಪ್ಪು ಮಹಾನ್ ನಾಯಕನಾಗುವನು ಎಂದು ತಿಳಿದಿದ್ದರು.",
+          "illustrationEmoji":"👑",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"The Tiger in Battle",
+          "titleKn":"ಯುದ್ಧದ ಹುಲಿ",
+          "content":"Tipu Sultan became famous for his courage in battle. He fought the British with advanced weapons, fearless soldiers, and clever military plans. His enemies called him the Tiger of Mysore.",
+          "contentKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಯುದ್ಧದಲ್ಲಿ ಅಪಾರ ಧೈರ್ಯದಿಂದ ಪ್ರಸಿದ್ಧರಾದರು. ಆಧುನಿಕ ಆಯುಧಗಳು, ಧೈರ್ಯಶಾಲಿ ಸೈನಿಕರು ಮತ್ತು ಚತುರ ಯುದ್ಧತಂತ್ರದಿಂದ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು. ಶತ್ರುಗಳು ಅವರನ್ನು ಮೈಸೂರಿನ ಹುಲಿ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು.",
+          "illustrationEmoji":"🐯",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"Rocket Innovation",
+          "titleKn":"ರಾಕೆಟ್ ಆವಿಷ್ಕಾರ",
+          "content":"Tipu Sultan's army used some of the world's earliest military rockets. These rockets shocked the British army and later inspired rocket technology across Europe.",
+          "contentKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಸೇನೆ ವಿಶ್ವದ ಮೊದಲ ಸೈನಿಕ ರಾಕೆಟ್‌ಗಳಲ್ಲಿ ಒಂದನ್ನು ಬಳಸಿತು. ಈ ರಾಕೆಟ್‌ಗಳು ಬ್ರಿಟಿಷರನ್ನು ಬೆಚ್ಚಿಬೀಳಿಸಿದವು ಮತ್ತು ನಂತರ ಯುರೋಪಿನ ರಾಕೆಟ್ ತಂತ್ರಜ್ಞಾನಕ್ಕೂ ಪ್ರೇರಣೆ ನೀಡಿದವು.",
+          "illustrationEmoji":"🚀",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"A Hero Forever",
+          "titleKn":"ಅಮರ ವೀರ",
+          "content":"In 1799, Tipu Sultan fought bravely till his last breath defending Mysore. His famous words were: 'It is better to live one day as a tiger than a thousand years as a sheep.' His courage inspires India even today.",
+          "contentKn":"1799ರಲ್ಲಿ ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಮೈಸೂರನ್ನು ರಕ್ಷಿಸುತ್ತಾ ಕೊನೆಯ ಉಸಿರಿನವರೆಗೂ ಹೋರಾಡಿದರು. ಅವರ ಪ್ರಸಿದ್ಧ ಮಾತು: 'ಒಂದು ದಿನ ಹುಲಿಯಾಗಿ ಬದುಕುವುದು ಸಾವಿರ ವರ್ಷ ಕುರಿಯಾಗಿ ಬದುಕುವುದಕ್ಕಿಂತ ಉತ್ತಮ.' ಅವರ ಧೈರ್ಯ ಇಂದಿಗೂ ಭಾರತಕ್ಕೆ ಪ್ರೇರಣೆ.",
+          "illustrationEmoji":"🏰",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"Why was Tipu Sultan called the Tiger of Mysore?",
+          "questionKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನರನ್ನು ಮೈಸೂರಿನ ಹುಲಿ ಎಂದು ಯಾಕೆ ಕರೆಯುತ್ತಿದ್ದರು?",
+          "options":["Because of his bravery","Because of his pet tiger","Because he hunted tigers","Because he lived in forests"],
+          "optionsKn":["ಅವರ ಧೈರ್ಯಕ್ಕಾಗಿ","ಅವರ ಹುಲಿಗಾಗಿ","ಹುಲಿ ಬೇಟೆಗಾಗಿ","ಕಾಡಿನಲ್ಲಿ ವಾಸಿಸಿದ್ದರಿಂದ"],
+          "correctIndex":0,
+          "explanation":"Tipu Sultan was called Tiger of Mysore because of his fearless courage in battle.",
+          "explanationKn":"ಯುದ್ಧದಲ್ಲಿ ಅವರ ಅಪಾರ ಧೈರ್ಯದ ಕಾರಣ ಟಿಪ್ಪು ಸುಲ್ತಾನರನ್ನು ಮೈಸೂರಿನ ಹುಲಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು."
+        },
+
+        {
+          "id":"q2",
+          "question":"What special weapon did Tipu Sultan's army use?",
+          "questionKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಸೇನೆ ಯಾವ ವಿಶೇಷ ಆಯುಧ ಬಳಸಿತು?",
+          "options":["Cannons","Rockets","Ships","Bows"],
+          "optionsKn":["ತೋಪು","ರಾಕೆಟ್","ಹಡಗು","ಬಿಲ್ಲು"],
+          "correctIndex":1,
+          "explanation":"Tipu Sultan's army used early military rockets.",
+          "explanationKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಸೇನೆ ಮೊದಲ ಸೈನಿಕ ರಾಕೆಟ್‌ಗಳನ್ನು ಬಳಸಿತು."
+        },
+
+        {
+          "id":"q3",
+          "question":"Which kingdom did Tipu Sultan rule?",
+          "questionKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಯಾವ ರಾಜ್ಯವನ್ನು ಆಳಿದರು?",
+          "options":["Delhi","Mysore","Kittur","Bijapur"],
+          "optionsKn":["ದೆಹಲಿ","ಮೈಸೂರು","ಕಿತ್ತೂರು","ಬಿಜಾಪುರ"],
+          "correctIndex":1,
+          "explanation":"Tipu Sultan ruled the Kingdom of Mysore.",
+          "explanationKn":"ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಮೈಸೂರು ರಾಜ್ಯವನ್ನು ಆಳಿದರು."
+        }
+
+      ],
+
+      "badgeId":"badge_tipu",
+      "memorialName":"Tipu Palace, Mysuru"
+    },
+    {
+      "id":"bhimsen_joshi",
+      "name":"Bhimsen Joshi",
+      "nameKn":"ಭೀಮಸೇನ್ ಜೋಶಿ",
+      "title":"Voice of India",
+      "titleKn":"ಭಾರತದ ಗಾನ ರತ್ನ",
+      "districtId":"dharwad",
+      "districtName":"Dharwad",
+      "era":"1922–2011",
+      "category":"POET",
+      "emoji":"🎵",
+      "shortBio":"Bhimsen Joshi was one of India's greatest classical singers.",
+      "shortBioKn":"ಭೀಮಸೇನ್ ಜೋಶಿ ಭಾರತದ ಶ್ರೇಷ್ಠ ಶಾಸ್ತ್ರೀಯ ಗಾಯಕರಲ್ಲಿ ಒಬ್ಬರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Boy Who Loved Music",
+          "titleKn":"ಸಂಗೀತ ಪ್ರೀತಿಸಿದ ಬಾಲಕ",
+          "content":"In Dharwad, a young boy named Bhimsen was fascinated by music. He would follow street singers and temple musicians for hours.",
+          "contentKn":"ಧಾರವಾಡದಲ್ಲಿ ಭೀಮಸೇನ್ ಎಂಬ ಬಾಲಕ ಸಂಗೀತದ ಮೇಲೆ ಅಪಾರ ಪ್ರೀತಿ ಹೊಂದಿದ್ದನು. ದೇವಾಲಯದ ಸಂಗೀತಗಾರರನ್ನು ಗಂಟೆಗಳ ಕಾಲ ಕೇಳುತ್ತಿದ್ದನು.",
+          "illustrationEmoji":"🎶",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"Searching for a Guru",
+          "titleKn":"ಗುರುವಿನ ಹುಡುಕಾಟ",
+          "content":"At a very young age, Bhimsen left home to find the perfect music teacher. His dedication amazed everyone.",
+          "contentKn":"ತುಂಬಾ ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲಿ ಭೀಮಸೇನ್ ಉತ್ತಮ ಸಂಗೀತ ಗುರುವನ್ನು ಹುಡುಕಲು ಮನೆ ಬಿಟ್ಟರು. ಅವರ ಸಮರ್ಪಣೆ ಎಲ್ಲರನ್ನೂ ಆಶ್ಚರ್ಯಗೊಳಿಸಿತು.",
+          "illustrationEmoji":"🚂",
+          "bgGradientStart":"#FFF8E1",
+          "bgGradientEnd":"#FFECB3"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"A Voice Like No Other",
+          "titleKn":"ಅಪ್ರತಿಮ ಧ್ವನಿ",
+          "content":"Bhimsen Joshi's powerful voice touched millions. His classical performances became legendary across India.",
+          "contentKn":"ಭೀಮಸೇನ್ ಜೋಶಿಯ ಶಕ್ತಿಯುತ ಧ್ವನಿ ಲಕ್ಷಾಂತರ ಜನರನ್ನು ಮಂತ್ರಮುಗ್ಧರನ್ನಾಗಿಸಿತು. ಅವರ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಭಾರತದೆಲ್ಲೆಡೆ ಪ್ರಸಿದ್ಧವಾಯಿತು.",
+          "illustrationEmoji":"🎤",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"Bharat Ratna",
+          "titleKn":"ಭಾರತ ರತ್ನ",
+          "content":"India honored Bhimsen Joshi with the Bharat Ratna for his extraordinary contribution to music.",
+          "contentKn":"ಸಂಗೀತ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮಾಡಿದ ಮಹಾನ್ ಕೊಡುಗೆಗಾಗಿ ಭಾರತವು ಭೀಮಸೇನ್ ಜೋಶಿಗೆ ಭಾರತ ರತ್ನ ಪ್ರಶಸ್ತಿ ನೀಡಿತು.",
+          "illustrationEmoji":"🏆",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"Bhimsen Joshi was famous for?",
+          "questionKn":"ಭೀಮಸೇನ್ ಜೋಶಿ ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+          "options":["Music","Science","Politics","War"],
+          "optionsKn":["ಸಂಗೀತ","ವಿಜ್ಞಾನ","ರಾಜಕೀಯ","ಯುದ್ಧ"],
+          "correctIndex":0,
+          "explanation":"He became one of India's greatest singers.",
+          "explanationKn":"ಅವರು ಭಾರತದ ಶ್ರೇಷ್ಠ ಗಾಯಕರಲ್ಲಿ ಒಬ್ಬರಾದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"Which award did he receive?",
+          "questionKn":"ಅವರು ಯಾವ ಪ್ರಶಸ್ತಿ ಪಡೆದರು?",
+          "options":["Padma Shri","Bharat Ratna","Oscar","Nobel Prize"],
+          "optionsKn":["ಪದ್ಮಶ್ರೀ","ಭಾರತ ರತ್ನ","ಆಸ್ಕರ್","ನೋಬೆಲ್"],
+          "correctIndex":1,
+          "explanation":"He received Bharat Ratna.",
+          "explanationKn":"ಅವರು ಭಾರತ ರತ್ನ ಪಡೆದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"Which district is Bhimsen Joshi associated with?",
+          "questionKn":"ಭೀಮಸೇನ್ ಜೋಶಿ ಯಾವ ಜಿಲ್ಲೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+          "options":["Mysuru","Belagavi","Dharwad","Raichur"],
+          "optionsKn":["ಮೈಸೂರು","ಬೆಳಗಾವಿ","ಧಾರವಾಡ","ರಾಯಚೂರು"],
+          "correctIndex":2,
+          "explanation":"He is associated with Dharwad.",
+          "explanationKn":"ಅವರು ಧಾರವಾಡದೊಂದಿಗೆ ಸಂಬಂಧ ಹೊಂದಿದ್ದಾರೆ."
+        }
+
+      ],
+
+      "badgeId":"badge_bhimsen",
+      "memorialName":"Dharwad"
+    },
+    {
+      "id":"onake_obavva",
+      "name":"Onake Obavva",
+      "nameKn":"ಒನಕೆ ಓಬವ್ವ",
+      "title":"The Defender of Chitradurga",
+      "titleKn":"ಚಿತ್ರದುರ್ಗದ ರಕ್ಷಕಿ",
+      "districtId":"chitradurga",
+      "districtName":"Chitradurga",
+      "era":"18th Century",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"⚔️",
+      "shortBio":"Onake Obavva defended Chitradurga Fort with unmatched courage.",
+      "shortBioKn":"ಒನಕೆ ಓಬವ್ವ ಅಪಾರ ಧೈರ್ಯದಿಂದ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Brave Woman",
+          "titleKn":"ಧೈರ್ಯದ ಮಹಿಳೆ",
+          "content":"Obavva lived near Chitradurga Fort and was known for her courage and sharp mind.",
+          "contentKn":"ಓಬವ್ವ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯ ಬಳಿ ವಾಸಿಸುತ್ತಿದ್ದರು ಮತ್ತು ಧೈರ್ಯಕ್ಕೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು.",
+          "illustrationEmoji":"🏰",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"The Secret Entry",
+          "titleKn":"ಗುಪ್ತ ದಾರಿ",
+          "content":"Enemy soldiers found a small opening into the fort. Obavva noticed them first.",
+          "contentKn":"ಶತ್ರು ಸೈನಿಕರು ಕೋಟೆಯೊಳಗೆ ಪ್ರವೇಶಿಸಲು ಒಂದು ಸಣ್ಣ ದಾರಿ ಕಂಡುಕೊಂಡರು. ಅದನ್ನು ಮೊದಲಿಗೆ ಓಬವ್ವ ಗಮನಿಸಿದರು.",
+          "illustrationEmoji":"👀",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"The Onake Weapon",
+          "titleKn":"ಒನಕೆಯ ಶಕ್ತಿ",
+          "content":"With only an Onake, a wooden pestle, Obavva defeated the enemy soldiers one by one.",
+          "contentKn":"ಕೇವಲ ಒನಕೆಯಿಂದ ಓಬವ್ವ ಶತ್ರು ಸೈನಿಕರನ್ನು ಒಬ್ಬೊಬ್ಬರಾಗಿ ಸೋಲಿಸಿದರು.",
+          "illustrationEmoji":"⚔️",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"A Legend Forever",
+          "titleKn":"ಅಮರ ಕಥೆ",
+          "content":"Today Onake Obavva is remembered as one of Karnataka's bravest women.",
+          "contentKn":"ಇಂದು ಓಬವ್ವ ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಧೈರ್ಯಶಾಲಿ ಮಹಿಳೆಯರಲ್ಲಿ ಒಬ್ಬರಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ.",
+          "illustrationEmoji":"🌟",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"What weapon did Obavva use?",
+          "questionKn":"ಓಬವ್ವ ಯಾವ ಆಯುಧ ಬಳಸಿದರು?",
+          "options":["Sword","Bow","Onake","Spear"],
+          "optionsKn":["ಖಡ್ಗ","ಬಿಲ್ಲು","ಒನಕೆ","ಭಲ್ಲೆ"],
+          "correctIndex":2,
+          "explanation":"She used an Onake.",
+          "explanationKn":"ಅವರು ಒನಕೆ ಬಳಸಿದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"Which fort did she defend?",
+          "questionKn":"ಅವರು ಯಾವ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು?",
+          "options":["Belagavi Fort","Mysore Fort","Chitradurga Fort","Raichur Fort"],
+          "optionsKn":["ಬೆಳಗಾವಿ ಕೋಟೆ","ಮೈಸೂರು ಕೋಟೆ","ಚಿತ್ರದುರ್ಗ ಕೋಟೆ","ರಾಯಚೂರು ಕೋಟೆ"],
+          "correctIndex":2,
+          "explanation":"She defended Chitradurga Fort.",
+          "explanationKn":"ಅವರು ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"What made Obavva special?",
+          "questionKn":"ಓಬವ್ವರನ್ನು ವಿಶೇಷವಾಗಿಸಿದದ್ದು ಏನು?",
+          "options":["Her courage","Her music","Her science","Her paintings"],
+          "optionsKn":["ಧೈರ್ಯ","ಸಂಗೀತ","ವಿಜ್ಞಾನ","ಚಿತ್ರಕಲೆ"],
+          "correctIndex":0,
+          "explanation":"Her courage made her legendary.",
+          "explanationKn":"ಅವರ ಧೈರ್ಯವೇ ಅವರನ್ನು ಅಮರಗೊಳಿಸಿತು."
+        }
+
+      ],
+
+      "badgeId":"badge_obavva",
+      "memorialName":"Chitradurga Fort"
+    },
+    {
+      "id":"madhvacharya",
+      "name":"Madhvacharya",
+      "nameKn":"ಮಧ್ವಾಚಾರ್ಯ",
+      "title":"Philosopher of Udupi",
+      "titleKn":"ಉಡುಪಿಯ ತತ್ವಜ್ಞಾನಿ",
+      "districtId":"udupi",
+      "districtName":"Udupi",
+      "era":"1238–1317",
+      "category":"SOCIAL_REFORMER",
+      "emoji":"📖",
+      "shortBio":"Madhvacharya was one of India's greatest philosophers and spiritual teachers.",
+      "shortBioKn":"ಮಧ್ವಾಚಾರ್ಯರು ಭಾರತದ ಶ್ರೇಷ್ಠ ತತ್ವಜ್ಞಾನಿಗಳಲ್ಲಿ ಒಬ್ಬರು.",
+      "pages":[
+        {
+          "pageNumber":1,
+          "title":"A Child of Wisdom",
+          "titleKn":"ಜ್ಞಾನದ ಬಾಲಕ",
+          "content":"In Udupi, a gifted child named Madhva showed extraordinary intelligence.",
+          "contentKn":"ಉಡುಪಿಯಲ್ಲಿ ಜನಿಸಿದ ಮಧ್ವ ಬಾಲ್ಯದಲ್ಲೇ ಅಪಾರ ಜ್ಞಾನ ತೋರಿಸಿದರು.",
+          "illustrationEmoji":"👦",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+        {
+          "pageNumber":2,
+          "title":"Seeking Truth",
+          "titleKn":"ಸತ್ಯದ ಹುಡುಕಾಟ",
+          "content":"Madhva travelled across India in search of knowledge.",
+          "contentKn":"ಮಧ್ವ ಭಾರತದೆಲ್ಲೆಡೆ ಜ್ಞಾನಕ್ಕಾಗಿ ಸಂಚರಿಸಿದರು.",
+          "illustrationEmoji":"🚶",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+        {
+          "pageNumber":3,
+          "title":"Teaching Dvaita",
+          "titleKn":"ದ್ವೈತ ಬೋಧನೆ",
+          "content":"He taught Dvaita philosophy.",
+          "contentKn":"ಅವರು ದ್ವೈತ ತತ್ವ ಬೋಧಿಸಿದರು.",
+          "illustrationEmoji":"📚",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+        {
+          "pageNumber":4,
+          "title":"Legacy",
+          "titleKn":"ಪರಂಪರೆ",
+          "content":"His teachings continue to inspire millions.",
+          "contentKn":"ಅವರ ತತ್ವಗಳು ಲಕ್ಷಾಂತರ ಜನರಿಗೆ ಪ್ರೇರಣೆ.",
+          "illustrationEmoji":"🛕",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+      ],
+      "quiz":[
+        {
+          "id":"q1",
+          "question":"Madhvacharya is associated with?",
+          "questionKn":"ಮಧ್ವಾಚಾರ್ಯರು ಯಾವ ಜಿಲ್ಲೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+          "options":["Udupi","Kodagu","Mysuru","Hassan"],
+          "optionsKn":["ಉಡುಪಿ","ಕೊಡಗು","ಮೈಸೂರು","ಹಾಸನ"],
+          "correctIndex":0,
+          "explanation":"He is associated with Udupi.",
+          "explanationKn":"ಅವರು ಉಡುಪಿಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ."
+        }
+      ],
+      "badgeId":"badge_madhva",
+      "memorialName":"Udupi Krishna Temple"
+    },
+
+    {
+      "id":"kanaka_dasa",
+      "name":"Kanaka Dasa",
+      "nameKn":"ಕನಕ ದಾಸ",
+      "title":"Saint Poet",
+      "titleKn":"ಸಂತ ಕವಿ",
+      "districtId":"haveri",
+      "districtName":"Haveri",
+      "era":"1509–1609",
+      "category":"POET",
+      "emoji":"🎶",
+      "shortBio":"Kanaka Dasa was a saint poet.",
+      "shortBioKn":"ಕನಕ ದಾಸರು ಸಂತ ಕವಿ.",
+      "pages":[
+        {
+          "pageNumber":1,
+          "title":"A Poet",
+          "titleKn":"ಕವಿ",
+          "content":"Kanaka Dasa wrote devotional songs.",
+          "contentKn":"ಕನಕ ದಾಸ ಭಕ್ತಿ ಹಾಡುಗಳನ್ನು ರಚಿಸಿದರು.",
+          "illustrationEmoji":"🎼",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        }
+      ],
+      "quiz":[
+        {
+          "id":"q1",
+          "question":"Kanaka Dasa was famous for?",
+          "questionKn":"ಕನಕ ದಾಸ ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+          "options":["Poetry","Science","War","Sports"],
+          "optionsKn":["ಕಾವ್ಯ","ವಿಜ್ಞಾನ","ಯುದ್ಧ","ಕ್ರೀಡೆ"],
+          "correctIndex":0,
+          "explanation":"He was a saint poet.",
+          "explanationKn":"ಅವರು ಸಂತ ಕವಿ."
+        }
+      ],
+      "badgeId":"badge_kanaka",
+      "memorialName":"Kanaka Dasa Memorial"
+    },
+
+    {
+      "id":"kumara_rama",
+      "name":"Kumara Rama",
+      "nameKn":"ಕುಮಾರ ರಾಮ",
+      "title":"Warrior Prince",
+      "titleKn":"ವೀರ ಯುವರಾಜ",
+      "districtId":"ballari",
+      "districtName":"Ballari",
+      "era":"14th Century",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"⚔️",
+      "shortBio":"Kumara Rama was a brave warrior prince.",
+      "shortBioKn":"ಕುಮಾರ ರಾಮ ಧೈರ್ಯಶಾಲಿ ಯುವರಾಜ.",
+      "pages":[
+        {
+          "pageNumber":1,
+          "title":"A Warrior",
+          "titleKn":"ವೀರ",
+          "content":"Kumara Rama defended his kingdom.",
+          "contentKn":"ಕುಮಾರ ರಾಮ ತನ್ನ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದರು.",
+          "illustrationEmoji":"🛡️",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        }
+      ],
+      "quiz":[
+        {
+          "id":"q1",
+          "question":"Kumara Rama was a?",
+          "questionKn":"ಕುಮಾರ ರಾಮ ಯಾರು?",
+          "options":["Warrior","Singer","Scientist","Poet"],
+          "optionsKn":["ಯೋಧ","ಗಾಯಕ","ವಿಜ್ಞಾನಿ","ಕವಿ"],
+          "correctIndex":0,
+          "explanation":"He was a warrior.",
+          "explanationKn":"ಅವರು ವೀರರಾಗಿದ್ದರು."
+        }
+      ],
+      "badgeId":"badge_kumara",
+      "memorialName":"Kumara Rama Fort"
+    },
+    {
+      "id":"rani_abbakka",
+      "name":"Rani Abbakka",
+      "nameKn":"ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+      "title":"Queen of Ullal",
+      "titleKn":"ಉಳ್ಳಾಳದ ರಾಣಿ",
+      "districtId":"dakshina_kannada",
+      "districtName":"Dakshina Kannada",
+      "era":"16th Century",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"👑",
+      "shortBio":"Rani Abbakka became one of India's earliest queens to resist foreign invaders.",
+      "shortBioKn":"ರಾಣಿ ಅಬ್ಬಕ್ಕ ವಿದೇಶಿ ಆಕ್ರಮಣಕಾರರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಭಾರತದ ಮೊದಲ ರಾಣಿಯರಲ್ಲಿ ಒಬ್ಬರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Princess of the Coast",
+          "titleKn":"ಕರಾವಳಿಯ ರಾಜಕುಮಾರಿ",
+          "content":"In the coastal land of Ullal, a brave young princess named Abbakka grew up watching ships arrive from distant lands. From childhood, she learned horse riding, sword fighting, and leadership. Her people admired her courage and intelligence.",
+          "contentKn":"ಉಳ್ಳಾಳದ ಕರಾವಳಿಯಲ್ಲಿ ಅಬ್ಬಕ್ಕ ಎಂಬ ಧೈರ್ಯಶಾಲಿ ರಾಜಕುಮಾರಿ ಬೆಳೆದಳು. ಬಾಲ್ಯದಲ್ಲೇ ಕುದುರೆ ಸವಾರಿ, ಕತ್ತಿಯಾಟ ಮತ್ತು ನಾಯಕತ್ವ ಕಲಿತಳು.",
+          "illustrationEmoji":"🌊",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"Facing the Invaders",
+          "titleKn":"ಆಕ್ರಮಣಕಾರರ ವಿರುದ್ಧ ಹೋರಾಟ",
+          "content":"When foreign armies tried to capture her kingdom, Abbakka refused to surrender. She united fishermen, soldiers, and local warriors to defend her land.",
+          "contentKn":"ವಿದೇಶಿ ಸೇನೆಗಳು ಆಕೆಯ ರಾಜ್ಯವನ್ನು ಕಬಳಿಸಲು ಬಂದಾಗ, ಅಬ್ಬಕ್ಕ ಶರಣಾಗಲು ನಿರಾಕರಿಸಿದಳು.",
+          "illustrationEmoji":"⚔️",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"Victory on the Sea",
+          "titleKn":"ಸಮುದ್ರದ ಜಯ",
+          "content":"Her navy fought fiercely on the Arabian Sea. Abbakka's clever battle strategies surprised powerful enemies.",
+          "contentKn":"ಅರಬ್ಬಿ ಸಮುದ್ರದಲ್ಲಿ ಆಕೆಯ ನೌಕಾಪಡೆ ಶೌರ್ಯದಿಂದ ಹೋರಾಡಿತು.",
+          "illustrationEmoji":"⛵",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"A Queen Remembered Forever",
+          "titleKn":"ಅಮರ ರಾಣಿ",
+          "content":"Even centuries later, Rani Abbakka remains a symbol of courage, independence, and leadership for Karnataka.",
+          "contentKn":"ಶತಮಾನಗಳ ನಂತರವೂ ರಾಣಿ ಅಬ್ಬಕ್ಕ ಕರ್ನಾಟಕದ ಧೈರ್ಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯದ ಸಂಕೇತವಾಗಿದ್ದಾಳೆ.",
+          "illustrationEmoji":"🏆",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"Which region did Rani Abbakka rule?",
+          "questionKn":"ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾವ ಪ್ರದೇಶವನ್ನು ಆಳಿದರು?",
+          "options":["Ullal","Mysuru","Kodagu","Raichur"],
+          "optionsKn":["ಉಳ್ಳಾಳ","ಮೈಸೂರು","ಕೊಡಗು","ರಾಯಚೂರು"],
+          "correctIndex":0,
+          "explanation":"Rani Abbakka ruled Ullal.",
+          "explanationKn":"ರಾಣಿ ಅಬ್ಬಕ್ಕ ಉಳ್ಳಾಳವನ್ನು ಆಳಿದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"What did she fight against?",
+          "questionKn":"ಅವರು ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+          "options":["Invaders","Farmers","Poets","Scientists"],
+          "optionsKn":["ಆಕ್ರಮಣಕಾರರು","ರೈತರು","ಕವಿಗಳು","ವಿಜ್ಞಾನಿಗಳು"],
+          "correctIndex":0,
+          "explanation":"She fought foreign invaders.",
+          "explanationKn":"ಅವರು ವಿದೇಶಿ ಆಕ್ರಮಣಕಾರರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"What is she remembered for?",
+          "questionKn":"ಅವರು ಯಾವ ಕಾರಣಕ್ಕೆ ನೆನಪಾಗುತ್ತಾರೆ?",
+          "options":["Courage","Music","Painting","Science"],
+          "optionsKn":["ಧೈರ್ಯ","ಸಂಗೀತ","ಚಿತ್ರಕಲೆ","ವಿಜ್ಞಾನ"],
+          "correctIndex":0,
+          "explanation":"She is remembered for courage.",
+          "explanationKn":"ಅವರು ಧೈರ್ಯಕ್ಕಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ."
+        }
+
+      ],
+
+      "badgeId":"badge_abbakka",
+      "memorialName":"Ullal Memorial"
+    },
+    {
+      "id":"krishnadevaraya",
+      "name":"Krishnadevaraya",
+      "nameKn":"ಕೃಷ್ಣದೇವರಾಯ",
+      "title":"Great Emperor",
+      "titleKn":"ಮಹಾನ್ ಸಾಮ್ರಾಟ",
+      "districtId":"vijayanagara",
+      "districtName":"Vijayanagara",
+      "era":"1471–1529",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"👑",
+      "shortBio":"Krishnadevaraya led one of the greatest empires in South India.",
+      "shortBioKn":"ಕೃಷ್ಣದೇವರಾಯ ದಕ್ಷಿಣ ಭಾರತದ ಮಹಾನ್ ಸಾಮ್ರಾಜ್ಯಗಳಲ್ಲಿ ಒಂದನ್ನು ನಡೆಸಿದರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Prince with Dreams",
+          "titleKn":"ಕನಸುಗಳ ಯುವರಾಜ",
+          "content":"Born into the Vijayanagara Empire, Krishnadevaraya grew up learning leadership, warfare, and literature.",
+          "contentKn":"ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ ಜನಿಸಿದ ಕೃಷ್ಣದೇವರಾಯ ನಾಯಕತ್ವ ಮತ್ತು ಸಾಹಿತ್ಯ ಕಲಿತರು.",
+          "illustrationEmoji":"🏰",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"A Powerful King",
+          "titleKn":"ಶಕ್ತಿಶಾಲಿ ರಾಜ",
+          "content":"When he became king, he strengthened the empire, protected people, and expanded trade and culture.",
+          "contentKn":"ರಾಜನಾದ ನಂತರ ಅವರು ಸಾಮ್ರಾಜ್ಯವನ್ನು ಬಲಪಡಿಸಿದರು.",
+          "illustrationEmoji":"⚔️",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"Lover of Knowledge",
+          "titleKn":"ಜ್ಞಾನ ಪ್ರೇಮಿ",
+          "content":"Krishnadevaraya supported poets, scholars, and artists. His court became one of India's greatest centers of learning.",
+          "contentKn":"ಅವರು ಕವಿಗಳು ಮತ್ತು ಕಲಾವಿದರಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು.",
+          "illustrationEmoji":"📚",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"Legacy of Hampi",
+          "titleKn":"ಹಂಪಿಯ ಪರಂಪರೆ",
+          "content":"Even today, the ruins of Hampi remind the world of Krishnadevaraya's greatness.",
+          "contentKn":"ಇಂದಿಗೂ ಹಂಪಿಯ ಅವಶೇಷಗಳು ಕೃಷ್ಣದೇವರಾಯರ ಮಹತ್ವವನ್ನು ನೆನಪಿಸುತ್ತವೆ.",
+          "illustrationEmoji":"🌟",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"Which empire did Krishnadevaraya rule?",
+          "questionKn":"ಕೃಷ್ಣದೇವರಾಯ ಯಾವ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಆಳಿದರು?",
+          "options":["Vijayanagara","Mughal","Maurya","Chola"],
+          "optionsKn":["ವಿಜಯನಗರ","ಮೊಘಲ್","ಮೌರ್ಯ","ಚೋಳ"],
+          "correctIndex":0,
+          "explanation":"He ruled Vijayanagara Empire.",
+          "explanationKn":"ಅವರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಆಳಿದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"What did he support?",
+          "questionKn":"ಅವರು ಯಾರಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು?",
+          "options":["Scholars","Pirates","Invaders","Hunters"],
+          "optionsKn":["ಪಂಡಿತರು","ಕಳ್ಳರು","ಆಕ್ರಮಣಕಾರರು","ಬೇಟೆಗಾರರು"],
+          "correctIndex":0,
+          "explanation":"He supported scholars and artists.",
+          "explanationKn":"ಅವರು ಪಂಡಿತರು ಮತ್ತು ಕಲಾವಿದರಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"Which city remembers him today?",
+          "questionKn":"ಇಂದು ಯಾವ ನಗರ ಅವರನ್ನು ನೆನಪಿಸುತ್ತದೆ?",
+          "options":["Hampi","Delhi","Mysuru","Bidar"],
+          "optionsKn":["ಹಂಪಿ","ದೆಹಲಿ","ಮೈಸೂರು","ಬೀದರ್"],
+          "correctIndex":0,
+          "explanation":"Hampi remembers his legacy.",
+          "explanationKn":"ಹಂಪಿ ಅವರ ಪರಂಪರೆಯನ್ನು ನೆನಪಿಸುತ್ತದೆ."
+        }
+
+      ],
+
+      "badgeId":"badge_krishna",
+      "memorialName":"Hampi"
+    },
+    {
+      "id":"allama_prabhu",
+      "name":"Allama Prabhu",
+      "nameKn":"ಅಲ್ಲಮ ಪ್ರಭು",
+      "title":"Mystic Saint",
+      "titleKn":"ಮಹಾನ್ ಸಂತ",
+      "districtId":"kalaburagi",
+      "districtName":"Kalaburagi",
+      "era":"12th Century",
+      "category":"POET",
+      "emoji":"📜",
+      "shortBio":"Allama Prabhu inspired generations through spiritual wisdom and poetry.",
+      "shortBioKn":"ಅಲ್ಲಮ ಪ್ರಭು ತಮ್ಮ ತತ್ವ ಮತ್ತು ಕಾವ್ಯದ ಮೂಲಕ ಅನೇಕ ಜನರಿಗೆ ಪ್ರೇರಣೆ ನೀಡಿದರು.",
+
+      "pages":[
+
+        {
+          "pageNumber":1,
+          "title":"A Seeker of Truth",
+          "titleKn":"ಸತ್ಯದ ಹುಡುಕಾಟ",
+          "content":"In ancient Karnataka, Allama Prabhu grew up with a deep curiosity about life, truth, and spirituality. Even as a young man, he spent hours thinking about the meaning of existence.",
+          "contentKn":"ಪುರಾತನ ಕರ್ನಾಟಕದಲ್ಲಿ ಅಲ್ಲಮ ಪ್ರಭು ಜೀವನದ ಸತ್ಯ ಮತ್ತು ಆತ್ಮಜ್ಞಾನ ಕುರಿತು ಆಳವಾಗಿ ಚಿಂತಿಸುತ್ತಿದ್ದರು.",
+          "illustrationEmoji":"🌄",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"The Voice of Wisdom",
+          "titleKn":"ಜ್ಞಾನದ ಧ್ವನಿ",
+          "content":"He began expressing his thoughts through powerful vachanas—short spiritual poems that spoke directly to people's hearts.",
+          "contentKn":"ಅವರು ತಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ವಚನಗಳ ಮೂಲಕ ಜನರಿಗೆ ತಲುಪಿಸಿದರು.",
+          "illustrationEmoji":"📜",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"Anubhava Mantapa",
+          "titleKn":"ಅನುಭವ ಮಂಟಪ",
+          "content":"Allama Prabhu became a guiding force at Anubhava Mantapa, where thinkers, saints, and reformers discussed equality and truth.",
+          "contentKn":"ಅವರು ಅನುಭವ ಮಂಟಪದಲ್ಲಿ ಮಹತ್ವದ ಪಾತ್ರವಹಿಸಿದರು.",
+          "illustrationEmoji":"🏛️",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"A Voice That Lives On",
+          "titleKn":"ಅಮರ ಧ್ವನಿ",
+          "content":"Even today, his vachanas continue to inspire people to think deeply, live honestly, and seek truth.",
+          "contentKn":"ಇಂದಿಗೂ ಅವರ ವಚನಗಳು ಜನರಿಗೆ ಪ್ರೇರಣೆ ನೀಡುತ್ತಿವೆ.",
+          "illustrationEmoji":"✨",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+
+        {
+          "id":"q1",
+          "question":"What was Allama Prabhu famous for?",
+          "questionKn":"ಅಲ್ಲಮ ಪ್ರಭು ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+          "options":["Vachanas","War","Science","Architecture"],
+          "optionsKn":["ವಚನಗಳು","ಯುದ್ಧ","ವಿಜ್ಞಾನ","ವಾಸ್ತುಶಿಲ್ಪ"],
+          "correctIndex":0,
+          "explanation":"He was famous for spiritual vachanas.",
+          "explanationKn":"ಅವರು ವಚನಗಳಿಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು."
+        },
+
+        {
+          "id":"q2",
+          "question":"Where did he guide discussions?",
+          "questionKn":"ಅವರು ಎಲ್ಲ ಚರ್ಚೆ ನಡೆಸಿದರು?",
+          "options":["Anubhava Mantapa","Palace","Temple","Fort"],
+          "optionsKn":["ಅನುಭವ ಮಂಟಪ","ಅರಮನೆ","ದೇವಾಲಯ","ಕೋಟೆ"],
+          "correctIndex":0,
+          "explanation":"He guided discussions at Anubhava Mantapa.",
+          "explanationKn":"ಅವರು ಅನುಭವ ಮಂಟಪದಲ್ಲಿ ಚರ್ಚೆ ನಡೆಸಿದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"What did his writings inspire?",
+          "questionKn":"ಅವರ ಬರಹಗಳು ಏನಿಗೆ ಪ್ರೇರಣೆ ನೀಡಿದವು?",
+          "options":["Truth","Trade","War","Farming"],
+          "optionsKn":["ಸತ್ಯ","ವ್ಯಾಪಾರ","ಯುದ್ಧ","ಕೃಷಿ"],
+          "correctIndex":0,
+          "explanation":"His writings inspired truth and wisdom.",
+          "explanationKn":"ಅವರ ಬರಹಗಳು ಸತ್ಯ ಮತ್ತು ಜ್ಞಾನಕ್ಕೆ ಪ್ರೇರಣೆ ನೀಡಿದವು."
+        }
+
+
+      ],
+
+      "badgeId":"badge_allama",
+      "memorialName":"Anubhava Mantapa"
+    },
+    {
+      "id":"koppal_rama",
+      "name":"Kumara Rama",
+      "nameKn":"ಕುಮಾರ ರಾಮ",
+      "title":"Warrior Hero",
+      "titleKn":"ವೀರ ನಾಯಕ",
+      "districtId":"koppal",
+      "districtName":"Koppal",
+      "era":"14th Century",
+      "category":"FREEDOM_FIGHTER",
+      "emoji":"⚔️",
+      "shortBio":"Kumara Rama became a symbol of bravery in Karnataka.",
+      "shortBioKn":"ಕುಮಾರ ರಾಮ ಕರ್ನಾಟಕದ ವೀರತೆಯ ಸಂಕೇತವಾದರು.",
+
+      "pages":[
+        {
+          "pageNumber":1,
+          "title":"A Prince of Courage",
+          "titleKn":"ಧೈರ್ಯದ ಯುವರಾಜ",
+          "content":"Kumara Rama grew up as a brave prince in Koppal, learning sword fighting and leadership.",
+          "contentKn":"ಕುಮಾರ ರಾಮ ಕೊಪ್ಪಳದಲ್ಲಿ ಧೈರ್ಯಶಾಲಿ ಯುವರಾಜನಾಗಿ ಬೆಳೆದರು.",
+          "illustrationEmoji":"👑",
+          "bgGradientStart":"#FFF3E0",
+          "bgGradientEnd":"#FFE0B2"
+        },
+
+        {
+          "pageNumber":2,
+          "title":"Defending His People",
+          "titleKn":"ಜನರ ರಕ್ಷಣೆ",
+          "content":"When enemies attacked, he stood fearlessly to protect his kingdom.",
+          "contentKn":"ಶತ್ರುಗಳು ದಾಳಿ ಮಾಡಿದಾಗ ಅವರು ಧೈರ್ಯದಿಂದ ತಮ್ಮ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದರು.",
+          "illustrationEmoji":"🛡️",
+          "bgGradientStart":"#E8F5E9",
+          "bgGradientEnd":"#C8E6C9"
+        },
+
+        {
+          "pageNumber":3,
+          "title":"A Warrior's Spirit",
+          "titleKn":"ವೀರನ ಆತ್ಮ",
+          "content":"His bravery inspired both soldiers and common people.",
+          "contentKn":"ಅವರ ವೀರತೆ ಸೈನಿಕರು ಮತ್ತು ಜನರಿಗೆ ಪ್ರೇರಣೆ ನೀಡಿತು.",
+          "illustrationEmoji":"⚔️",
+          "bgGradientStart":"#E3F2FD",
+          "bgGradientEnd":"#BBDEFB"
+        },
+
+        {
+          "pageNumber":4,
+          "title":"Remembered Forever",
+          "titleKn":"ಅಮರ ನೆನಪು",
+          "content":"Today Kumara Rama is remembered as one of Karnataka's bravest warriors.",
+          "contentKn":"ಇಂದು ಕುಮಾರ ರಾಮ ಕರ್ನಾಟಕದ ಮಹಾನ್ ವೀರರಲ್ಲಿ ಒಬ್ಬರಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ.",
+          "illustrationEmoji":"🏆",
+          "bgGradientStart":"#F3E5F5",
+          "bgGradientEnd":"#E1BEE7"
+        }
+
+      ],
+
+      "quiz":[
+        {
+          "id":"q1",
+          "question":"Which district is Kumara Rama associated with?",
+          "questionKn":"ಕುಮಾರ ರಾಮ ಯಾವ ಜಿಲ್ಲೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+          "options":["Koppal","Bidar","Kodagu","Mysuru"],
+          "optionsKn":["ಕೊಪ್ಪಳ","ಬೀದರ್","ಕೊಡಗು","ಮೈಸೂರು"],
+          "correctIndex":0,
+          "explanation":"He is associated with Koppal.",
+          "explanationKn":"ಅವರು ಕೊಪ್ಪಳದೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ."
+        },
+
+        {
+          "id":"q2",
+          "question":"What was he famous for?",
+          "questionKn":"ಅವರು ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+          "options":["Bravery","Music","Poetry","Science"],
+          "optionsKn":["ವೀರತೆ","ಸಂಗೀತ","ಕಾವ್ಯ","ವಿಜ್ಞಾನ"],
+          "correctIndex":0,
+          "explanation":"He was famous for bravery.",
+          "explanationKn":"ಅವರು ವೀರತೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು."
+        },
+
+        {
+          "id":"q3",
+          "question":"What did he protect?",
+          "questionKn":"ಅವರು ಏನು ರಕ್ಷಿಸಿದರು?",
+          "options":["Kingdom","Temple","Library","School"],
+          "optionsKn":["ರಾಜ್ಯ","ದೇವಾಲಯ","ಗ್ರಂಥಾಲಯ","ಶಾಲೆ"],
+          "correctIndex":0,
+          "explanation":"He protected his kingdom.",
+          "explanationKn":"ಅವರು ತಮ್ಮ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದರು."
+        }
+
+      ],
+
+      "badgeId":"badge_koppal",
+      "memorialName":"Kanakagiri Fort"
+    }
+
+  ],
+  "badges": [
+    {"id":"badge_chennamm_warrior","name":"Warrior Queen Badge","nameKn":"ವೀರರಾಣಿ ಬ್ಯಾಡ್ಜ್","description":"You learned about Rani Chennamma's brave fight against the British! You are a Heritage Guardian!","descriptionKn":"ರಾಣಿ ಚೆನ್ನಮ್ಮರ ಧೈರ್ಯದ ಹೋರಾಟ ತಿಳಿದೆ! ನೀವು ಪಾರಂಪರಿಕ ಕಾವಲುಗಾರ!","icon":"⚔️","rarity":"EPIC"},
+    {"id":"badge_rayanna_lion","name":"Lion of Kittur Badge","nameKn":"ಕಿತ್ತೂರಿನ ಸಿಂಹ ಬ್ಯಾಡ್ಜ್","description":"You discovered Sangolli Rayanna's courage! You are a Freedom Explorer!","descriptionKn":"ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣರ ಧೈರ್ಯ ಕಂಡಿರಿ! ನೀವು ಸ್ವಾತಂತ್ರ್ಯ ಅನ್ವೇಷಕ!","icon":"🦁","rarity":"LEGENDARY"},
+    {"id":"badge_kuvempu_poet","name":"National Poet Badge","nameKn":"ರಾಷ್ಟ್ರಕವಿ ಬ್ಯಾಡ್ಜ್","description":"You explored the world of Kuvempu's poetry and philosophy! You are a Language Champion!","descriptionKn":"ಕುವೆಂಪುರ ಕಾವ್ಯ ಮತ್ತು ತತ್ವ ಅನ್ವೇಷಿಸಿದಿರಿ! ನೀವು ಭಾಷಾ ವೀರ!","icon":"📜","rarity":"EPIC"},
+    {"id":"badge_mv_builder","name":"Master Builder Badge","nameKn":"ಮಾಸ್ಟರ್ ಬಿಲ್ಡರ್ ಬ್ಯಾಡ್ಜ್","description":"You learned about Visvesvaraya's engineering genius! You are a Young Innovator!","descriptionKn":"ವಿಶ್ವೇಶ್ವರಯ್ಯರ ಇಂಜಿನಿಯರಿಂಗ್ ಪ್ರತಿಭೆ ತಿಳಿದೆ! ನೀವು ಯುವ ಸಂಶೋಧಕ!","icon":"🔧","rarity":"RARE"},
+    {"id":"badge_basavanna_saint","name":"Equality Champion Badge","nameKn":"ಸಮಾನತೆ ವೀರ ಬ್ಯಾಡ್ಜ್","description":"You understood Basavanna's message of equality and justice! You are a Social Champion!","descriptionKn":"ಬಸವಣ್ಣರ ಸಮಾನತೆ ಮತ್ತು ನ್ಯಾಯದ ಸಂದೇಶ ಅರ್ಥ ಮಾಡಿದಿರಿ! ನೀವು ಸಾಮಾಜಿಕ ವೀರ!","icon":"🙏","rarity":"LEGENDARY"},
+    {
+      "id":"badge_tipu",
+      "name":"Tiger Badge",
+      "nameKn":"ಹುಲಿ ಬ್ಯಾಡ್ಜ್",
+      "description":"You learned about Tipu Sultan!",
+      "descriptionKn":"ನೀವು ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬಗ್ಗೆ ಕಲಿತಿರಿ!",
+      "icon":"🐯",
+      "rarity":"EPIC"
+    },
+    {
+      "id":"badge_bhimsen",
+      "name":"Music Badge",
+      "nameKn":"ಸಂಗೀತ ಬ್ಯಾಡ್ಜ್",
+      "description":"You learned about Bhimsen Joshi!",
+      "descriptionKn":"ನೀವು ಭೀಮಸೇನ್ ಜೋಶಿ ಬಗ್ಗೆ ಕಲಿತಿರಿ!",
+      "icon":"🎵",
+      "rarity":"RARE"
+    },
+    {
+      "id":"badge_obavva",
+      "name":"Fort Defender Badge",
+      "nameKn":"ಕೋಟೆ ರಕ್ಷಕಿ ಬ್ಯಾಡ್ಜ್",
+      "description":"You learned about Onake Obavva!",
+      "descriptionKn":"ನೀವು ಒನಕೆ ಓಬವ್ವ ಬಗ್ಗೆ ಕಲಿತಿರಿ!",
+      "icon":"⚔️",
+      "rarity":"EPIC"
+    }
+  ,
+    {"id":"badge_kempe","name":"City Builder Badge","nameKn":"ನಗರ ನಿರ್ಮಾತೃ ಬ್ಯಾಡ್ಜ್","description":"You learned about Kempe Gowda!","descriptionKn":"ನೀವು ಕೆಂಪೇಗೌಡರ ಬಗ್ಗೆ ಕಲಿತಿರಿ!","icon":"🏙️","rarity":"EPIC"},
+
+    {"id":"badge_cariappa","name":"Army Hero Badge","nameKn":"ಸೇನಾ ವೀರ ಬ್ಯಾಡ್ಜ್","description":"You learned about Cariappa!","descriptionKn":"ನೀವು ಕಾರಿಯಪ್ಪರ ಬಗ್ಗೆ ಕಲಿತಿರಿ!","icon":"🎖️","rarity":"LEGENDARY"}
+  ,
+    {"id":"badge_madhva","name":"Wisdom Badge","nameKn":"ಜ್ಞಾನ ಬ್ಯಾಡ್ಜ್","description":"You learned about Madhvacharya!","descriptionKn":"ನೀವು ಮಧ್ವಾಚಾರ್ಯರ ಬಗ್ಗೆ ಕಲಿತಿರಿ!","icon":"📖","rarity":"EPIC"},
+
+    {"id":"badge_kanaka","name":"Poet Badge","nameKn":"ಕವಿ ಬ್ಯಾಡ್ಜ್","description":"You learned about Kanaka Dasa!","descriptionKn":"ನೀವು ಕನಕ ದಾಸರ ಬಗ್ಗೆ ಕಲಿತಿರಿ!","icon":"🎶","rarity":"EPIC"},
+
+    {"id":"badge_kumara","name":"Warrior Badge","nameKn":"ವೀರ ಬ್ಯಾಡ್ಜ್","description":"You learned about Kumara Rama!","descriptionKn":"ನೀವು ಕುಮಾರ ರಾಮರ ಬಗ್ಗೆ ಕಲಿತಿರಿ!","icon":"⚔️","rarity":"LEGENDARY"}
+
+  ]
+}

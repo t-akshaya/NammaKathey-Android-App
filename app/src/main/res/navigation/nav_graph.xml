@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment android:id="@+id/homeFragment"
+        android:name="com.nammakathe.ui.home.HomeFragment"
+        android:label="Home">
+        <action android:id="@+id/action_home_to_story"
+            app:destination="@id/storyNav"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment android:id="@+id/districtFragment"
+        android:name="com.nammakathe.ui.district.DistrictFragment"
+        android:label="Districts">
+        <action android:id="@+id/action_district_to_heroList"
+            app:destination="@id/heroListFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment android:id="@+id/heroListFragment"
+        android:name="com.nammakathe.ui.district.HeroListFragment"
+        android:label="Heroes">
+        <argument android:name="districtId" app:argType="string" />
+        <action android:id="@+id/action_heroList_to_story"
+            app:destination="@id/storyNav"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment android:id="@+id/badgeFragment"
+        android:name="com.nammakathe.ui.badge.BadgeFragment"
+        android:label="Badges" />
+
+    <fragment android:id="@+id/profileFragment"
+        android:name="com.nammakathe.ui.profile.ProfileFragment"
+        android:label="Profile" />
+
+    <fragment
+        android:id="@+id/parentDashboardFragment"
+        android:name="com.nammakathe.ui.profile.ParentDashboardFragment"
+        android:label="Parent Dashboard" />
+
+    <!-- Placeholder nav for StoryActivity (launched as Activity, not Fragment) -->
+    <activity android:id="@+id/storyNav"
+        android:name="com.nammakathe.ui.story.StoryActivity">
+        <argument android:name="heroId" app:argType="string" />
+    </activity>
+</navigation>

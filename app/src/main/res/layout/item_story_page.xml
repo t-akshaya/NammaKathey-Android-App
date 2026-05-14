@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pageRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center_horizontal"
+        android:paddingHorizontal="28dp" android:paddingVertical="32dp">
+
+        <TextView android:id="@+id/tvPageNumber"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Page 1" android:textColor="#80000000"
+            android:textSize="12sp" android:layout_marginBottom="16dp" />
+
+        <TextView android:id="@+id/tvIllustration"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="📜" android:textSize="108sp"
+            android:layout_marginBottom="28dp" />
+
+        <TextView android:id="@+id/tvChapterTitle"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Chapter Title" android:textColor="@color/primary"
+            android:textSize="24sp" android:textStyle="bold"
+            android:gravity="center" android:fontFamily="sans-serif-medium"
+            android:layout_marginBottom="16dp" />
+
+        <View android:layout_width="60dp" android:layout_height="4dp"
+            android:background="@color/saffron" android:layout_marginBottom="24dp" />
+
+        <TextView android:id="@+id/tvStoryContent"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Story content..." android:textColor="@color/text_primary"
+            android:textSize="18sp" android:lineSpacingMultiplier="1.8"
+            android:gravity="center" android:layout_marginBottom="48dp" />
+    </LinearLayout>
+</ScrollView>
